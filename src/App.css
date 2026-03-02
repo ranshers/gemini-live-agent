@@ -1,0 +1,181 @@
+.app-layout {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  width: 100vw;
+  background-color: var(--color-bg);
+  overflow: hidden;
+}
+
+.app-header {
+  height: 64px;
+  background-color: var(--color-primary);
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 var(--spacing-xl);
+  box-shadow: var(--shadow-md);
+  z-index: 10;
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-sm);
+}
+
+.brand-icon {
+  background-color: white;
+  color: var(--color-primary);
+  padding: 6px;
+  border-radius: var(--radius-sm);
+  box-sizing: content-box;
+}
+
+.brand h1 {
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin: 0;
+  letter-spacing: -0.5px;
+  color: white;
+}
+
+.header-actions {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-md);
+}
+
+.settings-btn {
+  background: rgba(255, 255, 255, 0.1);
+  border: none;
+  color: white;
+  padding: 8px;
+  border-radius: var(--radius-sm);
+  cursor: pointer;
+  transition: background-color 0.2s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.settings-btn:hover {
+  background: rgba(255, 255, 255, 0.2);
+}
+
+.main-content {
+  flex: 1;
+  display: flex;
+  padding: var(--spacing-lg);
+  gap: var(--spacing-lg);
+  overflow: hidden;
+  max-width: 1600px;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.camera-section {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.chat-section {
+  width: 450px;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+/* API Key Modal */
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  backdrop-filter: blur(4px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 100;
+}
+
+.api-key-modal {
+  background-color: var(--color-surface);
+  padding: var(--spacing-xl);
+  border-radius: var(--radius-card);
+  box-shadow: var(--shadow-lg);
+  width: 90%;
+  max-width: 450px;
+}
+
+.api-key-modal h2 {
+  margin-top: 0;
+  margin-bottom: var(--spacing-sm);
+  color: var(--color-primary);
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-sm);
+}
+
+.api-key-modal p {
+  color: var(--color-text-muted);
+  font-size: 0.95rem;
+  margin-bottom: var(--spacing-lg);
+}
+
+.api-key-modal input {
+  width: 100%;
+  padding: 0.75rem 1rem;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  margin-bottom: var(--spacing-lg);
+  font-size: 1rem;
+  outline: none;
+}
+
+.api-key-modal input:focus {
+  border-color: var(--color-primary);
+  box-shadow: 0 0 0 3px rgba(0, 86, 150, 0.1);
+}
+
+.api-key-modal .btn-primary {
+  width: 100%;
+}
+
+/* Responsive adjustments */
+@media (max-width: 992px) {
+  .main-content {
+    flex-direction: column;
+    padding: var(--spacing-sm);
+    gap: var(--spacing-sm);
+    overflow-y: auto;
+  }
+
+  .camera-section {
+    flex: none;
+    height: 35vh;
+    min-height: 250px;
+  }
+
+  .chat-section {
+    width: 100%;
+    flex: 1;
+    min-height: 400px;
+  }
+}
+
+@media (max-width: 600px) {
+  .app-header {
+    height: 56px;
+    padding: 0 var(--spacing-sm);
+  }
+
+  .brand h1 {
+    font-size: 1.1rem;
+  }
+}
