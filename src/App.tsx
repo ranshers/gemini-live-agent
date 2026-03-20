@@ -12,7 +12,7 @@ function App() {
   const cameraRef = useRef<CameraFeedRef>(null);
 
   // Initialize WebSockets via Custom Hook
-  const { messages, isConnected, error, sendRealtimeFrame, appendUserTranscription } = useLiveAgent();
+  const { messages, isConnected, isAgentThinking, isAgentSpeaking, error, sendRealtimeFrame, appendUserTranscription, interruptAgent, commitAudioTurn } = useLiveAgent();
 
   const handleAudioChunk = useCallback((base64String: string) => {
     if (isConnected) {
@@ -24,13 +24,17 @@ function App() {
     if (isFinal) {
       appendUserTranscription(text);
       setInterimTranscript('');
+      // `commitAudioTurn` is now handled by the volume-based VAD directly for faster response.
     } else {
       setInterimTranscript(text);
     }
-  }, [appendUserTranscription]);
+  }, [appendUserTranscription, commitAudioTurn]);
 
   // Audio Streaming Hook
-  const { isRecording, startRecording, stopRecording } = useAudioStreamer(handleAudioChunk, handleTranscription);
+  const { isRecording, startRecording, stopRecording } = useAudioStreamer(handleAudioChunk, handleTranscription, () => {
+    commitAudioTurn();
+    stopRecording();
+  });
 
   // Initialize voices (for native TTS fallback)
   useEffect(() => {
@@ -63,8 +67,10 @@ function App() {
 
   const toggleMicrophone = () => {
     if (isRecording) {
+      commitAudioTurn();
       stopRecording();
     } else {
+      interruptAgent();
       startRecording();
     }
   };
@@ -102,9 +108,10 @@ function App() {
         <section className="chat-section">
           <ChatInterface
             messages={messages}
-            isLoading={false} // Prevent locking the UI; let the hook handle errors internally
+            isLoading={isAgentThinking}
             isConnected={isConnected}
             isRecording={isRecording}
+            isAgentSpeaking={isAgentSpeaking}
             onToggleMicrophone={toggleMicrophone}
             interimTranscript={interimTranscript}
           />

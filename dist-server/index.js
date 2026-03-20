@@ -2,8 +2,10 @@ import express from 'express';
 import cors from 'cors';
 import path from 'path';
 import http from 'http';
+import fs from 'fs';
 import { WebSocketServer, WebSocket } from 'ws';
 import { GoogleGenAI, Modality } from '@google/genai';
+import { fileURLToPath } from 'url'; // Added for __dirname in ES modules
 const __dirname = path.resolve();
 const app = express();
 const port = process.env.PORT || 8080;
@@ -69,27 +71,45 @@ wss.on('connection', async (ws) => {
     console.log('Client connected to /api/gemini/live WebSocket');
     try {
         let sessionClosed = false;
+        const __filename = fileURLToPath(import.meta.url);
+        const __dirname = path.dirname(__filename);
+        let knowledgeText = "";
+        try {
+            knowledgeText = fs.readFileSync(path.join(__dirname, 'knowledge.txt'), 'utf-8');
+            // The Live API has a ~32k token limit for system instructions.
+            // 38k tokens (~130k chars) caused a 1007 disconnect. Truncating to 100k chars (~25k tokens).
+            if (knowledgeText.length > 100000) {
+                knowledgeText = knowledgeText.substring(0, 100000) + "\n\n[DOCUMENTATION TRUNCATED...]";
+            }
+            console.log(`Loaded ${knowledgeText.length} bytes of knowledge.`);
+        }
+        catch (e) {
+            console.error("Failed to load knowledge.txt", e);
+        }
         // Connect to Vertex AI Multimodal Live API
         const session = await aiVertex.live.connect({
             model: "gemini-2.0-flash-live-preview-04-09",
             config: {
                 systemInstruction: {
-                    parts: [{ text: "You are the ProCyte One analyzer assistant. You answer questions strictly based on the provided manual context." }]
+                    parts: [{ text: "You are the ProCyte One analyzer assistant. Use the following context to answer questions concisely (under 50 words). If the answer is not in the context, say so.\n\nIMPORTANT: The user is streaming their camera. DO NOT proactively comment on the camera feed or read text from it unprompted. ONLY answer the user's spoken questions. Do NOT generate questions on behalf of the user.\n\n" + knowledgeText }]
                 },
-                responseModalities: [Modality.TEXT],
-                tools: [
-                    {
-                        retrieval: {
-                            vertexRagStore: {
-                                ragResources: [
-                                    {
-                                        ragCorpus: "projects/thoughtinvest-prod/locations/us-south1/ragCorpora/2305843009213693952"
-                                    }
-                                ]
-                            }
+                temperature: 0.2,
+                maxOutputTokens: 100,
+                responseModalities: [Modality.AUDIO],
+                speechConfig: {
+                    voiceConfig: {
+                        prebuiltVoiceConfig: {
+                            voiceName: "Aoede" // Natural female voice
                         }
                     }
-                ]
+                },
+                outputAudioTranscription: {},
+                contextWindowCompression: {
+                    triggerTokens: "30000",
+                    slidingWindow: {
+                        targetTokens: "28000"
+                    }
+                }
             },
             callbacks: {
                 onmessage: (serverMessage) => {
@@ -129,7 +149,7 @@ wss.on('connection', async (ws) => {
                     }
                     // Note: External RAG logic removed.
                     // The SDK handles Google Cloud Vertex AI RAG automatically via the tools configuration above.
-                    if (payload.clientContent && payload.clientContent.turns) {
+                    if (payload.clientContent) {
                         session.sendClientContent(payload.clientContent);
                     }
                     else if (payload.realtimeInput && payload.realtimeInput.mediaChunks) {

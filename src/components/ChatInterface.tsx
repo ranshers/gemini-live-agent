@@ -8,11 +8,12 @@ interface ChatInterfaceProps {
     isLoading: boolean;
     isConnected: boolean;
     isRecording: boolean;
+    isAgentSpeaking?: boolean;
     onToggleMicrophone: () => void;
     interimTranscript?: string;
 }
 
-const ChatInterface: React.FC<ChatInterfaceProps> = ({ messages, isLoading, isConnected, isRecording, onToggleMicrophone, interimTranscript }) => {
+const ChatInterface: React.FC<ChatInterfaceProps> = ({ messages, isLoading, isConnected, isRecording, isAgentSpeaking, onToggleMicrophone, interimTranscript }) => {
     const [isSpeaking, setIsSpeaking] = useState(false);
     const messagesEndRef = useRef<HTMLDivElement>(null);
 
@@ -118,7 +119,7 @@ const ChatInterface: React.FC<ChatInterfaceProps> = ({ messages, isLoading, isCo
                         <div className="message-content">
                             <div className="loading-bubble">
                                 <Loader2 className="animate-spin" size={18} />
-                                <span>Analyzing camera feed...</span>
+                                <span>Agent is thinking...</span>
                             </div>
                         </div>
                     </div>
@@ -126,7 +127,7 @@ const ChatInterface: React.FC<ChatInterfaceProps> = ({ messages, isLoading, isCo
                 <div ref={messagesEndRef} />
             </div>
 
-            <div className={`voice-interaction-bar ${isRecording ? 'is-recording' : (isConnected ? 'is-ready' : 'is-connecting')}`} onClick={isConnected ? onToggleMicrophone : undefined}>
+            <div className={`voice-interaction-bar ${isRecording ? 'is-recording' : (isAgentSpeaking ? 'is-speaking' : (isLoading ? 'is-thinking' : (isConnected ? 'is-ready' : 'is-connecting')))}`} onClick={isConnected ? onToggleMicrophone : undefined}>
                 <div className="voice-status-content">
                     {isConnected ? (
                         isRecording ? (
@@ -135,6 +136,18 @@ const ChatInterface: React.FC<ChatInterfaceProps> = ({ messages, isLoading, isCo
                                     <Mic size={24} className="mic-icon active" />
                                 </div>
                                 <span className="voice-text">Listening... Tap to stop</span>
+                            </>
+                        ) : isAgentSpeaking ? (
+                            <>
+                                <div className="pulse-ring speaking">
+                                    <Volume2 size={24} className="mic-icon active" style={{ color: '#8b5cf6' }} />
+                                </div>
+                                <span className="voice-text">Agent speaking... Tap to interrupt</span>
+                            </>
+                        ) : isLoading ? (
+                            <>
+                                <Loader2 size={24} className="animate-spin wait-icon" />
+                                <span className="voice-text">Agent thinking...</span>
                             </>
                         ) : (
                             <>

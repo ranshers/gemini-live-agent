@@ -25,7 +25,8 @@ function bufferToBase64(buffer: Uint8Array): string {
 
 export function useAudioStreamer(
     onAudioChunk: (base64Data: string) => void,
-    onTranscription?: (text: string, isFinal: boolean) => void
+    onTranscription?: (text: string, isFinal: boolean) => void,
+    onVADEnd?: () => void
 ) {
     const [isRecording, setIsRecording] = useState(false);
     const audioContextRef = useRef<AudioContext | null>(null);
@@ -33,6 +34,8 @@ export function useAudioStreamer(
     const processorRef = useRef<ScriptProcessorNode | null>(null);
     const recognitionRef = useRef<any>(null);
     const isRecordingRef = useRef(false);
+    const isSpeakingRef = useRef(false);
+    const silentChunksRef = useRef(0);
 
     const startRecording = useCallback(async () => {
         try {
@@ -50,6 +53,27 @@ export function useAudioStreamer(
 
             processor.onaudioprocess = (e) => {
                 const float32Array = e.inputBuffer.getChannelData(0);
+
+                // --- VAD (Voice Activity Detection) ---
+                let sumSquare = 0;
+                for (let i = 0; i < float32Array.length; i++) {
+                    sumSquare += float32Array[i] * float32Array[i];
+                }
+                const rms = Math.sqrt(sumSquare / float32Array.length);
+
+                if (rms > 0.015) { // Threshold for speaking
+                    isSpeakingRef.current = true;
+                    silentChunksRef.current = 0;
+                } else if (isSpeakingRef.current) {
+                    silentChunksRef.current++;
+                    if (silentChunksRef.current >= 3) { // 3 chunks of 256ms = ~768ms silence
+                        isSpeakingRef.current = false;
+                        silentChunksRef.current = 0;
+                        if (onVADEnd) onVADEnd();
+                    }
+                }
+                // --- End VAD ---
+
                 const pcm16Buffer = processAudioData(float32Array);
                 const base64Chunk = bufferToBase64(pcm16Buffer);
                 onAudioChunk(base64Chunk);
@@ -119,7 +143,7 @@ export function useAudioStreamer(
             setIsRecording(false);
             isRecordingRef.current = false;
         }
-    }, [onAudioChunk, onTranscription]);
+    }, [onAudioChunk, onTranscription, onVADEnd]);
 
     const stopRecording = useCallback(() => {
         isRecordingRef.current = false;

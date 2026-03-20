@@ -38,6 +38,8 @@ export interface ChatMessage {
 export function useLiveAgent() {
     const [messages, setMessages] = useState<ChatMessage[]>([]);
     const [isConnected, setIsConnected] = useState(false);
+    const [isAgentThinking, setIsAgentThinking] = useState(false);
+    const [isAgentSpeaking, setIsAgentSpeaking] = useState(false);
     const [error, setError] = useState<string | null>(null);
     const wsRef = useRef<WebSocket | null>(null);
     const audioContextRef = useRef<AudioContext | null>(null);
@@ -59,6 +61,8 @@ export function useLiveAgent() {
         ws.onopen = () => {
             console.log("Connected to Live Agent");
             setIsConnected(true);
+            setIsAgentThinking(false);
+            setIsAgentSpeaking(false);
             setError(null);
         };
 
@@ -66,50 +70,47 @@ export function useLiveAgent() {
             try {
                 const response = JSON.parse(event.data);
 
-                // Handle Server Content (model turns)
+                // Handle native output transcriptions streamed alongside audio
+                if (response.serverContent?.outputTranscription) {
+                    setIsAgentThinking(false);
+                    setIsAgentSpeaking(true);
+                    const transText = response.serverContent.outputTranscription.text;
+                    if (transText) {
+                        setMessages(prev => {
+                            const lastMessage = prev[prev.length - 1];
+                            if (lastMessage && lastMessage.role === 'model') {
+                                const updated = [...prev];
+                                updated[updated.length - 1] = { ...lastMessage, text: lastMessage.text + transText };
+                                return updated;
+                            } else {
+                                return [...prev, { role: 'model', text: transText }];
+                            }
+                        });
+                    }
+                }
+
+                // Handle Server Content (model turns) audio parts if requested
                 if (response.serverContent?.modelTurn) {
+                    setIsAgentThinking(false);
+                    setIsAgentSpeaking(true);
                     const parts = response.serverContent.modelTurn.parts;
                     if (parts && parts.length > 0) {
-                        const textContent = parts
-                            .filter((p: any) => p.text)
-                            .map((p: any) => p.text)
-                            .join('');
-
+                        // In case text returns as a part rather than an outputTranscription (eg if Modality is TEXT)
+                        const textContent = parts.filter((p: any) => p.text).map((p: any) => p.text).join('');
                         if (textContent) {
                             setMessages(prev => {
-                                // Simple buffering: append to the last message if it's from the model, or create new.
                                 const lastMessage = prev[prev.length - 1];
                                 if (lastMessage && lastMessage.role === 'model') {
                                     const updated = [...prev];
-                                    const newText = lastMessage.text + textContent;
-                                    updated[updated.length - 1] = { ...lastMessage, text: newText };
-
-                                    // Speak the appended chunk immediately it arrives mapping word by word for low latency
-                                    // Or for simplicity, buffer sentences to speak.
-                                    // Let's just dispatch to speech synthesis here for newly parsed sentences, 
-                                    // simple implementation: just speak the whole chunk as it comes in
-                                    if ('speechSynthesis' in window) {
-                                        const utterance = new SpeechSynthesisUtterance(textContent);
-                                        const voice = getBestFemaleVoice();
-                                        if (voice) utterance.voice = voice;
-                                        utterance.rate = 1.05;
-                                        window.speechSynthesis.speak(utterance);
-                                    }
+                                    updated[updated.length - 1] = { ...lastMessage, text: lastMessage.text + textContent };
                                     return updated;
                                 } else {
-                                    if ('speechSynthesis' in window) {
-                                        const utterance = new SpeechSynthesisUtterance(textContent);
-                                        const voice = getBestFemaleVoice();
-                                        if (voice) utterance.voice = voice;
-                                        utterance.rate = 1.05;
-                                        window.speechSynthesis.speak(utterance);
-                                    }
                                     return [...prev, { role: 'model', text: textContent }];
                                 }
                             });
                         }
 
-                        // Handle raw audio playback from server if available
+                        // Play native raw audio from server
                         const audioParts = parts.filter((p: any) => p.inlineData?.mimeType.startsWith('audio/'));
                         if (audioParts.length > 0) {
                             if (!audioContextRef.current) {
@@ -154,7 +155,10 @@ export function useLiveAgent() {
                     }
                 }
 
-                // Handle tool calls / rag responses if needed here
+                if (response.serverContent?.turnComplete) {
+                    setIsAgentSpeaking(false);
+                    setIsAgentThinking(false);
+                }
             } catch (err) {
                 console.error("Error parsing message from Live Agent", err);
             }
@@ -251,18 +255,43 @@ export function useLiveAgent() {
         }));
     }, []);
 
+    const commitAudioTurn = useCallback(() => {
+        if (!wsRef.current || wsRef.current.readyState !== WebSocket.OPEN) return;
+        setIsAgentThinking(true);
+        wsRef.current.send(JSON.stringify({
+            clientContent: {
+                turnComplete: true
+            }
+        }));
+    }, []);
+
     useEffect(() => {
         // Auto connect on mount
         connect();
         return () => disconnect();
     }, [connect, disconnect]);
 
+    const interruptAgent = useCallback(() => {
+        if (audioContextRef.current) {
+            audioContextRef.current.close().catch(console.error);
+            audioContextRef.current = new (window.AudioContext || (window as any).webkitAudioContext)({ sampleRate: 24000 });
+            nextAudioTimeRef.current = 0;
+        }
+        if ('speechSynthesis' in window) {
+            window.speechSynthesis.cancel();
+        }
+    }, []);
+
     return {
         messages,
         isConnected,
+        isAgentThinking,
+        isAgentSpeaking,
         error,
         sendMessage,
         sendRealtimeFrame,
-        appendUserTranscription
+        appendUserTranscription,
+        interruptAgent,
+        commitAudioTurn
     };
 }

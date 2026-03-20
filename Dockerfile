@@ -25,6 +25,7 @@ RUN npm ci --only=production
 COPY --from=build /app/dist ./dist
 # Copy built server
 COPY --from=server-build /app/dist-server ./server
+COPY server/knowledge.txt ./server/
 
 EXPOSE 8080
 

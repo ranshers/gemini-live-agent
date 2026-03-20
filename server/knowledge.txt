@@ -1,0 +1,2933 @@
+
+--- START OF DOCUMENT: analyzer-maintenance-log-en.pdf ---
+
+
+Catalyst Dx™ Chemistry Analyzer 
+QC/Maintenance Log
+Year: ____________________
+FrequencyMaintenance Required
+JanuaryFebruaryMarchAprilMayJuneJulyAugustSeptemberOctoberNovemberDecember
+MonthlyClean the internal components of 
+the analyzer. 
+Run quality control using 
+Catalyst™ SmartQC™ Control.
+Clean the centrifuge.
+Clean the waste drawer.
+QuarterlyClean the fan filter.
+When 
+Prompted
+Clean the internal components of 
+the analyzer.
+As NeededClean the case.
+Clean the screen.
+Clean the waste drawer.
+Required software upgrade (as provided)
+New version number:New version number:New version number:New version number:
+Date uploaded:Date uploaded:Date uploaded:Date uploaded:
+For more information about maintaining the Catalyst Dx Analyzer, see the 
+Catalyst Dx Chemistry Analyzer Operator’s Guide at idexx.com/product-info.
+The Catalyst Dx™ analyzer performs a self-check every time it is powered on, when a 
+test is performed, and when it is initialized.
+
+Catalyst One™ Chemistry Analyzer 
+QC/Maintenance Log
+Year: ____________________
+FrequencyMaintenance Required
+JanuaryFebruaryMarchAprilMayJuneJulyAugustSeptemberOctoberNovemberDecember
+MonthlyClean the internal components of 
+the analyzer. 
+Run quality control using 
+Catalyst™ SmartQC™ Control.
+Clean the waste drawer.
+When 
+Prompted
+Clean the internal components of 
+the analyzer.
+As NeededClean the case.
+Clean the waste drawer.
+Required software upgrade (as provided)
+New version number:New version number:New version number:New version number:
+Date uploaded:Date uploaded:Date uploaded:Date uploaded:
+For more information about maintaining the Catalyst One Analyzer, see the 
+Catalyst One Chemistry Analyzer Operator’s Guide at idexx.com/product-info.
+The Catalyst One™ analyzer performs a self-check every time it is powered on, when 
+a test is performed, and when it is initialized.
+
+Coag Dx™ Analyzer 
+QC/Maintenance Log
+Month: ____________________
+The Coag Dx™ Analyzer performs a self-check every time it is activated, when a 
+test is performed, and when an electronic quality control is run daily.
+For more information about maintaining the Coag Dx Analyzer, see the  
+Coag Dx Analyzer Operator’s Guide at idexx.com/product-info.
+FrequencyMaintenance 
+Required
+12345678910111213141516171819202122232425262728293031
+As NeededClean the key 
+pad, exterior 
+case, and 
+screen.
+Required software upgrade (as provided)
+New version number:New version number:New version number:New version number:
+Date uploaded:Date uploaded:Date uploaded:Date uploaded:
+
+IDEXX Digital Cytology™ Instrument 
+QC/Maintenance Log
+Month: ____________________
+For more information about maintaining the IDEXX Digital Cytology Instrument, 
+see the IDEXX Digital Cytology Instrument Operator’s Guide  
+at idexx.com/product-info.
+FrequencyMaintenance 
+Required
+12345678910111213141516171819202122232425262728293031
+WeeklyShut down 
+and restart 
+the IDEXX 
+Digital Cytology 
+Instrument and 
+its computer at 
+least once per 
+week.
+WeeklyChange the 
+stain and clean 
+stain jars using 
+a soft cloth 
+and hot water 
+(record the date 
+the stain was 
+changed on the 
+coplin jar lids).
+Required software upgrade (as provided)
+New version number:New version number:New version number:New version number:
+Date uploaded:Date uploaded:Date uploaded:Date uploaded:
+
+IDEXX inVue Dx™ Cellular Analyzer 
+QC/Maintenance Log
+Month: ____________________
+For more information about maintaining the IDEXX inVue Dx Cellular Analyzer, 
+see the IDEXX inVue Dx Cellular Analyzer Operator’s Guide  
+at idexx.com/product-info.
+FrequencyMaintenance 
+Required
+12345678910111213141516171819202122232425262728293031
+WeeklyRestart the 
+analyzer once 
+per week.
+As neededClean the 
+cartridge holder.
+Clean the case.
+Required software upgrade (as provided)
+New version number:New version number:New version number:New version number:
+Date uploaded:Date uploaded:Date uploaded:Date uploaded:
+
+LaserCyte™ Hematology Analyzer 
+QC/Maintenance Log
+Quarter: ____________________
+The LaserCyte analyzer is a liquid-based system that needs power
+to maintain its cleansing cycle. If the LaserCyte analyzer is powered off for more 
+than 24 consecutive hours, please contact IDEXX Customer Support.
+FrequencyMaintenance 
+Required
+Week 1Week 2Week 3Week 4Week 5Week 6Week 7Week 8Week 9Week 10Week 11Week 12
+WeeklyClean the air 
+filter.
+Required software upgrade (as provided)
+New version number:New version number:New version number:New version number:
+Date uploaded:Date uploaded:Date uploaded:Date uploaded:
+For more information about maintaining the LaserCyte Analyzer, see the  
+LaserCyte Hematology Analyzer Operator’s Guide at idexx.com/product-info.
+
+ProCyte Dx™ Hematology Analyzer 
+QC/Maintenance Log
+Month: ____________________
+FrequencyMaintenance 
+Required
+12345678910111213141516171819202122232425262728293031
+As NeededChange the 
+reagent kit.
+Change the stain 
+pack.
+WeeklyPower off the 
+analyzer and 
+IPU.
+For more information about maintaining the ProCyte Dx analyzer, see the  
+ProCyte Dx Hematology Analyzer Operator’s Guide at idexx.com/product-info
+The analyzer will perform a background check when it restarts after exiting Standby mode. It 
+takes approximately 8 minutes to exit Standby mode.
+By default, the ProCyte Dx analyzer will set itself to Standby mode at 7:00 p.m. each day. To 
+change the default setting, see the Operator’s Guide or contact IDEXX Customer and Technical 
+Support.
+To power off the analyzer, tap Turn Off ProCyte Dx on the ProCyte Dx Instruments screen and 
+follow the on-screen instructions. When powering on the IPU and ProCyte Dx analyzer, ensure 
+that the IDEXX VetLab™ Station is powered back on first.
+Clean the fan filter while the analyzer is powered off for the weekly reboot.
+FrequencyMaintenance Required
+JanuaryFebruaryMarchAprilMayJuneJulyAugustSeptemberOctoberNovemberDecember
+MonthlyClean the fan filter.
+Perform the Monthly Rinse 
+procedure (when (prompted by 
+the IDEXX VetLab Station).
+Run e-CHECK (XS) L2 quality 
+control.
+Required software upgrade (as provided)
+New version number:New version number:New version number:New version number:
+Date uploaded:Date uploaded:Date uploaded:Date uploaded:
+Year: ______________________
+The Monthly Rinse procedure requires a 5% bleach solution of filtered, unscented bleach with distilled/deionized 
+water. The ratio of bleach to water depends on the bleach concentration. (For example, Clorox™ concentrated 
+bleach has a 7.5% concentration, so the solution should be 2 parts bleach with 1 part deionized/distilled water.)
+Use appropriate lab handling techniques when using e-CHECK™ (XS) quality control.
+
+ProCyte One™ Hematology Analyzer 
+QC/Maintenance Log
+Month: ____________________
+FrequencyMaintenance 
+Required
+12345678910111213141516171819202122232425262728293031
+As NeededChange the 
+reagent.
+As NeededChange the 
+sheath.
+As NeededChange IDEXX 
+SmartQC™.
+Quarter: ____________________
+FrequencyMaintenance Required
+Quarter 1Quarter 2Quarter 3Quarter 4
+JanuaryFebruaryMarchAprilMayJuneJulyAugustSeptemberOctoberNovemberDecember
+Every 90 
+days
+Run the bleach clean 
+procedure.
+For more information about maintaining the ProCyte One analyzer, see the  
+ProCyte One Hematology Analyzer Operator’s Guide at idexx.com/product-info.
+The ProCyte One™ Hematology Analyzer performs most maintenance 
+automatically outside of business hours. It runs a self-cleaning sequence after 
+each sample run and cycles fluid daily outside of normal business hours. A more 
+robust weekly maintenance sequence runs on Sundays at 3:00 a.m., including 
+system checks, rinses, and an automated IDEXX SmartQC™ control run. IDEXX will 
+occasionally send software updates to the ProCyte One. No action is required on 
+your part to install the updates.
+IMPORTANT: The ProCyte One must remain powered on to receive software 
+updates and to allow automated maintenance cycles to run. The analyzer will go 
+into low-power mode after 15 minutes of idle time and will reboot periodically as 
+needed during weekly maintenance. 
+Required software upgrade (as provided)
+New version number:New version number:New version number:New version number:
+Date uploaded:Date uploaded:Date uploaded:Date uploaded:
+
+IDEXX SediVue Dx™ Urine Sediment Analyzer 
+QC/Maintenance Log
+Month: ____________________
+FrequencyMaintenance 
+Required
+12345678910111213141516171819202122232425262728293031
+As NeededEmpty the  
+waste bin.
+WeeklyReboot the 
+analyzer.
+For more information about maintaining the SediVue Dx analyzer, see the  
+IDEXX SediVue Dx Urine Sediment Analyzer Operator’s Guide  
+at idexx.com/product-info.
+FrequencyMaintenance Required
+JanuaryFebruaryMarchAprilMayJuneJulyAugustSeptemberOctoberNovemberDecember
+MonthlyClean the analyzer.
+Clean the fan filter.
+Run L1 and L2 quality control.
+Required software upgrade (as provided)
+New version number:New version number:New version number:New version number:
+Date uploaded:Date uploaded:Date uploaded:Date uploaded:
+Year: ______________________
+
+SNAP Pro™ Analyzer 
+QC/Maintenance Log
+Month: ____________________
+FrequencyMaintenance 
+Required
+12345678910111213141516171819202122232425262728293031
+WeeklyPower the 
+device off.
+Weekly/As 
+Needed
+Clean the base, 
+reflectors, and 
+activator.
+Required software upgrade (as provided)
+New version number:New version number:New version number:New version number:
+Date uploaded:Date uploaded:Date uploaded:Date uploaded:
+For more information about maintaining the SNAP Pro analyzer, see the  
+SNAP Pro Analyzer Operator’s Guide at idexx.com/product-info.
+
+SNAPshot Dx™ Analyzer 
+QC/Maintenance Log
+Year: ____________________
+FrequencyMaintenance Required
+JanuaryFebruaryMarchAprilMayJuneJulyAugustSeptemberOctoberNovemberDecember
+As NeededClean the case.
+Clean the SNAP™ ports.
+Clean the screen.
+Clean the incubator wells.
+Required software upgrade (as provided)
+New version number:New version number:New version number:New version number:
+Date uploaded:Date uploaded:Date uploaded:Date uploaded:
+The SNAPshot Dx Analyzer calibrates automatically. It performs a self-check at 
+the beginning of each test as well as an automatic systems check each time the 
+analyzer is powered on.
+For more information about maintaining the SNAPshot Dx Analyzer, see the 
+SNAPshot Dx Analyzer Operator’s Guide at idexx.com/product-info.
+
+IDEXX VetLab™ Station 
+QC/Maintenance Log
+Quarter: ____________________
+FrequencyMaintenance 
+Required
+Week 1Week 2Week 3Week 4Week 5Week 6Week 7Week 8Week 9Week 10Week 11Week 12
+WeeklyBack up data.
+Reboot the 
+computer.
+Required software upgrade (as provided)
+New version number:New version number:New version number:New version number:
+Date uploaded:Date uploaded:Date uploaded:Date uploaded:
+For more information about maintaining the IDEXX VetLab Station,  
+see the IDEXX VetLab Station Operator’s Guide at idexx.com/product-info.
+
+IDEXX VetLab™ UA™ Analyzer
+QC/Maintenance Log
+Month: ____________________
+FrequencyMaintenance 
+Required
+12345678910111213141516171819202122232425262728293031
+DailyAt end of day, 
+clean the test 
+strip tray
+†
+ with 
+water and, if 
+necessary, 
+70% isopropyl 
+alcohol.
+WeeklyCalibrate the 
+analyzer every 
+seven days. 
+†
+IMPORTANT: Be careful not to damage the gray reference pad during cleaning, and ensure that it is completely clean and dry before reading a test strip. 
+For more information about maintaining the IDEXX VetLab UA Analyzer,  
+see the IDEXX VetLab UA Analyzer Operator’s Guide at idexx.com/product-info.
+
+VetStat™ Electrolyte and Blood Gas Analyzer 
+QC/Maintenance Log 
+Month: ____________________
+FrequencyMaintenance 
+Required
+12345678910111213141516171819202122232425262728293031
+DailyRun a standard 
+reference 
+cassette (SRC), 
+alternate levels.
+WeeklyClean the 
+sample 
+measurement 
+chamber.
+For more information about maintaining the VetStat Analyzer, see the  
+VetStat Electrolyte and Blood Gas Analyzer Operator’s Guide  
+at idexx.com/product-info.
+The VetStat analyzer performs a self-check every time it is activated, when a 
+test is performed, and when an electronic quality control is run daily.
+FrequencyMaintenance Required
+JanuaryFebruaryMarchAprilMayJuneJulyAugustSeptemberOctoberNovemberDecember
+MonthlyRun OPTI™ CHECK quality control 
+(alternate levels).
+QuarterlyRun a hemoglobin calibration 
+cassette (HbCC) and reinstall the 
+standard reference cassettes (i.e., 
+rescan SRC setup barcodes).
+AnnuallyReplace peristaltic pump 
+cartridge.
+Change gas I/O port.
+Year: ______________________
+© 2025 IDEXX Laboratories, Inc. All rights reserved.• 06-19743-10  
+Catalyst Dx, Catalyst, Catalyst One, Coag Dx, IDEXX Digital Cytology, IDEXX inVue Dx, LaserCyte, ProCyte Dx, ProCyte One, IDEXX SmartQC, SediVue Dx, SmartQC, SNAP, SNAP Pro, SNAPshot Dx, IDEXX VetLab, IDEXX 
+VetLab UA, VetStat,  and OPTI are trademarks or registered trademarks of IDEXX Laboratories, Inc. or its affiliates in the United States and/or other countries. All other product and company names and logos are 
+trademarks or registered trademarks of their respective holders.
+--- END OF DOCUMENT: analyzer-maintenance-log-en.pdf ---
+
+--- START OF DOCUMENT: blood-cell-guide.pdf ---
+
+
+Blood Cell Guide
+Regenerative 
+response
+Mild polychromasiaMarked polychromasiaRapid stain—polychromasiaNMB—canine reticulocytesNMB—feline reticulocytes
+Immune-
+mediated 
+hemolytic anemia 
+(IMHA)
+Spherocytes with no 
+polychromasia
+Spherocytes with 
+polychromasia
+Ghost cellsAgglutination (50x)Rouleaux (50x)
+Other  
+poikilocytosis
+Rapid stain—Feline—3 indistinct  
+(arrows) and 2 obvious Heinz bodies
+NMB—Heinz bodiesEccentrocytes*Blister cell and keratocyte
+Miscellaneous 
+morphology
+CrenationAcanthocytesBurr cellSchistocyteBasophilic stippling
+Infectious agents
+Mycoplasma haemofelisMycoplasma haemocanisCytauxzoon felisBabesia gibsoniBabesia canis
+White blood 
+cells 
+Normal neutrophilBand neutrophilNeutrophil—mild toxicityNeutrophil—moderate toxicityNeutrophil—marked toxicity*
+Normal monocyteNormal canine eosinophilNormal feline eosinophilNormal canine basophilNormal feline basophil
+Platelets
+Normal lymphocyte
+Normal platelet count (50x)
+Lymphocyte—mild reactivity
+Low platelet count (50x)
+Lymphocyte—moderate 
+reactivity
+Platelet clump (50x)
+Lymphocyte—moderate 
+reactivity
+Normal-sized and large 
+platelets
+Lymphocyte—marked 
+reactivity
+Large atypical platelet
+Canine—two Heinz bodies
+All images, unless otherwise indicated, are representative of a high-power field of view 
+(100x objective field of view).
+Images and information provided by: Dennis B. DeNicola, DVM, PhD, DACVP,  Rick L. 
+Cowell, DVM, MS, MRCVS, DACVP, and Michelle Frye, MS, DVM
+© 2024 IDEXX Laboratories, Inc. All rights reserved. • 2691187-00
+All ®/TM marks are owned by IDEXX Laboratories, Inc. or its affiliates in the United States and/or other countries. The IDEXX Privacy Policy 
+is available at idexx.com.
+ * Illustration reproduced with permission from Reagan WJ, Rovira AI, DeNicola DB, eds. Veterinary Hematology: Atlas of Common Domestic 
+and Non-Domestic Species. 2nd ed. Ames, IA: Wiley-Blackwell; 2008. Copyright 2008 Wiley-Blackwell.
+Normal felineNormal canine
+--- END OF DOCUMENT: blood-cell-guide.pdf ---
+
+--- START OF DOCUMENT: hematology-sample-preparation-guide-en.pdf ---
+
+
+IDEXX In-House Hematology Analyzers
+Collecting and Preparing 
+Hematology Samples
+© 2020 IDEXX Laboratories, Inc. All rights reserved • 06-31620-01
+ *IDEXX VetCollect, ProCyte Dx, ProCyte One, and LaserCyte are trademarks or registered trademarks of 
+IDEXX Laboratories, Inc. or its affiliates in the United States and/or other countries.
+Use one of the following:
+•    Standard EDTA-treated tube (such as IDEXX VetCollect* tubes
+†
+) 
+•   Microtube (available for use with the ProCyte Dx* Hematology 
+Analyzer and ProCyte One* Hematology Analyzer only)
+Fill the tube according to the tube manufacturer’s specifications.
+†
+IDEXX VetCollect tubes are required for the LaserCyte* Hematology Analyzer and LaserCyte* Dx Hematology Analyzer.
+1.  Use the appropriate  
+EDTA tube.
+   Vacuum  
+ collection 
+tube
+•    If using a syringe, immediately transfer the sample to 
+the EDTA tube.
+•    If using an evacuated tube, push the syringe needle 
+through the rubber stopper of the vacuum collection 
+tube. The vacuum will draw the correct sample 
+volume. If the sample does not initially flow into the 
+tube, lightly depress the syringe plunger to start  
+the sample flowing.
+IMPORTANT: Fill the tube according to the 
+manufacturer’s specifications.
+Manually (and gently) invert the sample 10 times.
+Note for samples run on the LaserCyte analyzer or 
+LaserCyte Dx analyzer: If the cap is removed from the 
+EDTA tube (for any reason), the tube should be vented by 
+inserting a needle through the stopper to allow air pressure 
+to equilibrate before placing the tube into the instrument.
+4. Mix the sample.
+2.  Use the appropriate  
+sample collection  
+device.
+Use a syringe or vacuum  
+collection system.
+Use the appropriate 
+gauge needle for 
+the patient.
+     Vacuum 
+  collection 
+system
+Syringe
+3. Collect the sample.
+--- END OF DOCUMENT: hematology-sample-preparation-guide-en.pdf ---
+
+--- START OF DOCUMENT: procyte-one-canine-feline-dot-plot-handout-en.pdf ---
+
+
+What are dot plots?
+Dot plots are a visual representation of the complete blood count (CBC); each dot represents a single cell. Dot plots are a critical 
+element of the CBC, providing a snapshot of cellular morphology. This document will help you identify various feline and canine 
+disease states.
+What are the disease states?
+Reticulocytosis  
+Reticulocytosis (an increased number of reticulocytes) is the hallmark and most objective indicator of a regenerative anemia. 
+Reticulocytosis without anemia may also be an indicator of resolving anemia or other occult disease processes. Reticulocytes are 
+easily identified as the magenta dots to the right of the mature red blood cell population (red dots). The new methylene blue dye 
+binds to the residual reticulum, capturing the reticulocytes’ increased complexity compared to the normal mature red blood cells. 
+In a normal dot plot, there are few reticulocytes and their density is much less than shown in an abnormal dot plot. Rapid review of 
+the dot plot allows for a quick validation of the reticulocyte count.  
+Thrombocytopenia  
+Thrombocytopenia can be a critical finding in a complete blood count (CBC), so rapid validation of results from the hematology 
+analyzer is essential. In red blood cell and platelet dot plots, severe thrombocytopenia is easily validated. In normal patient 
+dot plots, there are dense accumulations of blue dots representing individual platelet optical profiles. During severe 
+thrombocytopenia, the density of the blue dots is dramatically reduced. Blood film microscopic review for possible platelet 
+clumping is recommended for any case with a reported low platelet count. Clumped platelets may cause a false low platelet 
+count, resulting in platelet events not appearing on these dot plots.  
+Platelet clumping  
+Platelet clumping is a common problem in veterinary medicine, especially with feline samples. Any time a difficult sample 
+collection results in a delay in filling the EDTA tube or delay in proper mixing, there is a potential for platelet clumping. There are 
+different degrees of platelet clumping, and most advanced analyzers recognize large platelet clumps. When platelet clumps are 
+identified and the platelet count is below the reference interval, you’ll receive a message alerting you to the presence of platelet 
+clumps. A rapid review of the dot plots provides you with a very quick validation if large platelet clumps are present. Large platelet 
+clumps are recognized as a light blue cluster of digitized events at the bottom of a white blood cell (WBC) dot plot. A rapid blood 
+film review can also allow for quick recognition of large platelet clumps and verification of results reported. If platelet clumps are 
+reported or observed on a blood film, collection of a new sample for analysis is recommended.  
+Leukopenia/neutropenia  
+Leukopenia (decreased total leukocyte numbers) and, in particular, neutropenia (decreased neutrophil numbers) often have high 
+clinical significance related to overwhelming inflammatory disease and possible effects of chemotherapy; immediate knowledge 
+of these situations is critical to the veterinarian. Marked decreases in leukocytes can be rapidly validated by examining dot plots. 
+When an isolated cell type such as the neutrophil is significantly decreased, it is easily recognized because of the obvious lack 
+of or a dramatic decrease in density of the dot plot cloud associated with that particular leukocyte. In each of the cases shown 
+in this document, there is a leukopenia characterized by a marked neutropenia (note the absence of the cloud of lavender dots 
+representing individual neutrophils in the sample).  
+ Lymphoid leukemia  
+Leukemia has multiple presentations—one of the most common is lymphoid leukemia, either as a result of progression of 
+malignant lymphoma or primary lymphoid leukemia originating in the bone marrow. Most advanced hematology analyzers cannot 
+accurately characterize these circulating malignant cells and have difficulty in differentiating the various types of leukocytes. 
+In normal WBC dot plots, there are distinctly identified clouds of different colored dots representing the various populations of 
+leukocytes typically seen in the peripheral blood; however in the dot plots of lymphoid leukemia patients, clear distinction between 
+the different leukocyte clouds is not present. In ProCyte One* Hematology analyzer dot plots, there is often extension of the 
+lymphocyte and monocyte clouds vertically on the y axis and an unclear distinction between cell populations.
+© 2022 IDEXX Laboratories, Inc. All rights reserved. • 06-0015599-00 
+*ProCyte One is a trademark or registered trademark of IDEXX Laboratories, Inc. or its affiliates in the United States and/or other countries.
+For more information about ProCyte One dot plots, 
+contact IDEXX Customer and Technical Support or visit 
+learn.idexx.com .
+Interpreting ProCyte One dot plots
+
+White blood cell 
+dot plot legend
+NeutrophilsMonocytes
+LymphocytesEosinophils
+BasophilsClumped platelets
+Red blood cellsPlatelets
+ReticulocytesWhite blood cells
+RBC fragments
+Red blood cell 
+dot plot legend
+Red blood cell and platelet dot plots
+CanineFeline
+Normal example
+Size
+Complexity
+Size
+Complexity
+Reticulocytosis example
+Size
+Complexity
+Size
+Complexity
+Thrombocytopenia example
+Size
+Complexity
+Size
+Complexity
+White blood cell dot plots
+CanineFeline
+Normal example
+Size
+Complexity
+Size
+Complexity
+Platelet clumping 
+example
+Size
+Complexity
+Size
+Complexity
+Leukopenia/neutropenia 
+example
+Size
+Complexity
+Size
+Complexity
+Lymphoid leukemia 
+example
+Size
+Complexity
+Size
+Complexity
+ModerateSevere
+--- END OF DOCUMENT: procyte-one-canine-feline-dot-plot-handout-en.pdf ---
+
+--- START OF DOCUMENT: procyte-one-equine-dot-plot-handout-en.pdf ---
+
+
+Interpreting ProCyte One* Equine Dot Plots
+Red blood cell and platelet dot plots
+Normal exampleThrombocytopenia example
+Size
+Complexity
+Size
+Complexity
+Red blood cellsPlatelets
+RBC fragmentsWhite blood cells
+White blood cell dot plots
+Normal examplePlatelet clumping exampleLeukopenia/neutropenia example
+Size
+Complexity
+Size
+Complexity
+Size
+Complexity
+NeutrophilsMonocytes
+LymphocytesEosinophils
+BasophilsClumped platelets
+© 2022 IDEXX Laboratories, Inc. All rights reserved. • 06-0017466-00 
+*ProCyte One is a trademark or registered trademark of IDEXX Laboratories, Inc. or its affiliates in the United States and/or other countries.
+What are dot plots?
+Dot plots are a visual representation of the complete blood count (CBC); each dot represents a single 
+cell. Dot plots are a critical element of the CBC, providing a snapshot of cellular morphology. This 
+document will help you identify various equine disease states.
+What are the disease states?
+Thrombocytopenia  
+Thrombocytopenia can be a critical finding in a complete blood count (CBC), so rapid validation 
+of results from the hematology analyzer is essential. In red blood cell and platelet dot plots, severe 
+thrombocytopenia is easily validated. Normally, there is a dense accumulation of blue dots representing 
+platelets. During thrombocytopenia, the density of the blue dots is reduced. Review the white blood cell 
+(WBC) dot plots for evidence of platelet clumping and/or review a blood film to investigate if platelet 
+clumps are the cause of the low platelet count.  
+Platelet clumping  
+Platelet clumping is a common problem in veterinary medicine. Any time a difficult sample collection 
+results in a delay in filling the EDTA tube or delay in proper mixing, there is a potential for platelet 
+clumping. There are different degrees of platelet clumping, and most advanced analyzers recognize 
+large platelet clumps. When platelet clumps are identified and the platelet count is below the reference 
+interval, you’ll receive a message alerting you to the presence of platelet clumps. A rapid review of the 
+dot plots provides you with a very quick validation if large platelet clumps are present. Large platelet 
+clumps are recognized as a light blue cluster of digitized events at the bottom of a white blood cell 
+(WBC) dot plot. A rapid blood film review can also allow for quick recognition of large platelet clumps 
+and verification of results reported. If platelet clumps are reported or observed on a blood film, collection 
+of a new sample for analysis is recommended.  
+Leukopenia/neutropenia  
+Leukopenia (decreased total leukocyte count) and, in particular, neutropenia (decreased neutrophil 
+count) often indicate overwhelming inflammatory disease or possible effects of chemotherapy, and 
+immediate recognition is critical. Marked decreases in leukocytes can be rapidly validated by examining 
+the WBC dot plots. Decrease in an isolated WBC cell type such as the neutrophil is evident in a 
+decrease in the density of the particular cell cluster. In the example, note the decreased density of the 
+lavender dots representing individual neutrophils as well as the decreased density of the monocyte 
+cloud.  
+For more information about ProCyte One dot plots, contact  
+IDEXX Customer and Technical Support or visit learn.idexx.com .
+--- END OF DOCUMENT: procyte-one-equine-dot-plot-handout-en.pdf ---
+
+--- START OF DOCUMENT: procyte-one-interpretive-aids-en.pdf ---
+
+
+Get more insight into CBC results 
+with interpretive aids
+As a part of IDEXX’s ongoing commitment to ensuring the best results 
+for your patients, interpretive aids are available for the ProCyte One* 
+Hematology Analyzer to give you more insight into your complete blood 
+count (CBC) results. 
+Interpretive aids use proprietary algorithms to detect results-based patterns 
+in CBC results. These aids, combined with dot plot images, provide helpful 
+insights and guidance for interpreting patient results. 
+You can find interpretive aids on the IDEXX VetLab* integrated patient report 
+(below the CBC result and dot plot images—shown at right) as well as in 
+VetConnect* PLUS.
+If the analyzer detects...The interpretive aid will say...
+ or RETIC and HCT
+Anemia without reticulocytosis—likely non-regenerative anemia; consider  
+pre-regenerative anemia.
+RETIC and HCT 
+Anemia with reticulocytosis—likely regenerative anemia.
+LYMPH 
+Lymphopenia—likely stress leukogram (glucocorticoid response).  
+Confirm with blood film review.
+MONO
+Monocytosis—consider inflammation.
+OR 
+Monocytosis—consider inflammation (if lymphopenia, consider glucocorticoid 
+response).
+ RDW
+Increased RDW—anisocytosis present—review blood film.
+PLT yet PCT 
+Normal PCT—likely adequate platelet mass.
+HCT, MCHC, and MCV
+Microcytic hypochromic anemia—likely iron-deficiency anemia.
+HCT
+Increased HCT—polycythemia.
+RETIC and  or HCT 
+Reticulocytosis without anemia—consider occult hemolytic or blood loss disease.
+MCHC or MCH or both
+Increased MCHC or MCH—consider hemolysis (including sample  
+collection/handling), lipemia, and Heinz bodies. 
+RETIC feline
+Reticulocytosis—confirm polychromasia on blood film. 
+  P LT
+Platelet aggregates are detected. Platelet count may be higher than reported.
+Key:
+ Above the reference interval Below the reference interval Within the reference interval
+© 2021 IDEXX Laboratories, Inc. All rights reserved. • 09-2568520-01
+*ProCyte One, IDEXX VetLab, and VetConnect are trademarks or registered trademarks of IDEXX Laboratories, Inc. or its affiliates in the United States and/or other countries. 
+1.  Anemia with reticulocytosis—likely regenerative 
+anemia.
+2.  Normal PCT—likely adequate platelet mass.
+ProCyte One* Hematology Analyzer
+--- END OF DOCUMENT: procyte-one-interpretive-aids-en.pdf ---
+
+--- START OF DOCUMENT: procyte-one-operators-guide-en.pdf ---
+
+
+ProCyte One* 
+Hematology Analyzer
+Operator’s Guide
+
+Proprietary rights notice
+Information in this document is subject to change without notice. Companies, names, and data used in examples are fictitious unless 
+otherwise noted. No part of this document may be reproduced or transmitted in any form or by any means, electronic, mechanical, 
+or otherwise, for any purpose, without the express written permission of IDEXX Laboratories. IDEXX Laboratories may have patents or 
+pending patent applications, trademarks, copyrights, or other intellectual or industrial property rights covering this document or subject 
+matter in this document. The furnishing of this document does not give a license to these property rights except as expressly provided 
+in any written license agreement from IDEXX Laboratories.
+© 2022 IDEXX Laboratories, Inc. All rights reserved. • 06-0014464-02
+*ProCyte One, IDEXX VetLab, IDEXX SmartService, IDEXX SmartQC, and ProCyte Dx are trademarks or registered trademarks of IDEXX 
+Laboratories, Inc. or its affiliates in the United States and/or other countries. All other product and company names and logos are 
+trademarks of their respective holders.
+
+3
+Contents
+About the analyzer ......................................................................................................5
+Sample collection and preparation ............................................................................6
+Compatible species ......................................................................................................................6
+Collecting samples for use with the ProCyte One analyzer ..........................................................6
+Sample collection and preparation best practices .......................................................................6
+Using the analyzer .......................................................................................................7
+Analyzer components ...................................................................................................................7
+Front of the analyzer ...............................................................................................................7
+Inside of the analyzer ..............................................................................................................7
+Analyzing samples ........................................................................................................................7
+Canceling a run .............................................................................................................................8
+Responding to an alert ..................................................................................................................8
+To view an alert from the Home screen ..................................................................................8
+To view an alert from any screen in the IDEXX VetLab Station ...............................................8
+Customizing the settings ..............................................................................................................8
+Low power mode ..........................................................................................................................8
+Interpreting results ......................................................................................................9
+Viewing test results  ......................................................................................................................9
+Printing test results ........................................................................................................................9
+Interpreting dot plots .....................................................................................................................9
+Red blood cell classification .................................................................................................10
+White blood cell classification ...............................................................................................11
+Analysis parameters ....................................................................................................................12
+Quality control ...........................................................................................................13
+Overview ......................................................................................................................................13
+IDEXX SmartQC Control .............................................................................................................13
+Storage..................................................................................................................................13
+Handling ................................................................................................................................13
+To change the vial .................................................................................................................13
+Viewing quality control results .....................................................................................................14
+To view the QC log  ...............................................................................................................14
+
+4
+Managing sheath and reagents ................................................................................15
+Overview ......................................................................................................................................15
+IDEXX ProCyte One Sheath Pack .........................................................................................15
+IDEXX ProCyte One Reagent Pack .......................................................................................15
+Changing the sheath or reagent pack ........................................................................................15
+Viewing sheath and reagent information ....................................................................................16
+To view sheath and reagent fill status and expiration information ........................................16
+Sheath pack components ...........................................................................................................16
+Intended use .........................................................................................................................16
+Reagent pack components ........................................................................................................16
+Intended use .........................................................................................................................16
+Disposing of sheath and reagent packs .....................................................................................16
+Maintenance ..............................................................................................................17
+Overview ......................................................................................................................................17
+Upgrading the software ..............................................................................................................17
+Performing the bleach clean procedure .....................................................................................17
+To run the bleach clean procedure  ......................................................................................17
+Cleaning the case .......................................................................................................................18
+Replacing the filter ......................................................................................................................18
+Troubleshooting ........................................................................................................19
+Overview ......................................................................................................................................19
+Differences in results ...................................................................................................................19
+With a commercial laboratory or another instrument ...........................................................19
+With your own expectations ..................................................................................................19
+What should I do if I receive an alert? .........................................................................................19
+How do I reboot my analyzer in the event of a system issue? ...................................................20
+Appendix ....................................................................................................................21
+Installing the ProCyte One analyzer ............................................................................................21
+Environmental guidelines ......................................................................................................21
+To install the IDEXX VetLab router .........................................................................................21
+To install the analyzer ............................................................................................................22
+Operating conditions and technical specifications ....................................................................22
+Performance, throughput, and sample input specifications.......................................................23
+Safety precautions ......................................................................................................................24
+International symbol descriptions ...............................................................................................25
+Other symbols .............................................................................................................................27
+IDEXX Customer and Technical Support contact information ....................................................28
+Contents
+
+5
+About the analyzer
+The IDEXX ProCyte One* Hematology Analyzer is an automated hematology analyzer for animal 
+blood that evaluates and provides the results of 24 parameters for each blood sample in less than 5 
+minutes. The ProCyte One analyzer is for veterinary use only.
+The ProCyte One analyzer uses reference laboratory technology to analyze blood samples. The 
+analyzer does so by focusing a laser beam on each individual cell and quantifying the scatter of light 
+on four separate detectors. Simultaneously, it measures the amount of time it takes a cell to travel 
+through the laser beam.
+Flow cell
+Forward 
+scatter
+High angle 
+scatter
+Side scatter
+HD laser and optics
+This cell travel time is referred to as the “time of flight,” and it provides data on the diameter of the 
+cell. Think of a flashlight as an analogy for the laser. Passing a golf ball in front of the light would 
+be quicker than passing a basketball through the same light. While the time of flight, or cellular 
+diameter, is being measured, the four detectors are measuring the quantity of light bouncing off 
+of a cell, or ball in this analogy. Continuing the analogy, the dimpled design of a golf ball would 
+refract light differently than the seamed design of a basketball. In this analogy, the golf ball would 
+be classified as a different “cell” from the basketball. The four detectors on the analyzer in essence 
+are measuring many of the same qualities that a pathologist would examine when looking at a blood 
+film. These qualities include size, complexity, granularity, and light absorption. With this information, 
+the analyzer can analyze red blood cells and, most important, arrive at an absolute reticulocyte 
+count. In addition, it can analyze the full five-part white blood cell differential, providing the data 
+needed for a more complete diagnosis. Hemoglobin (HGB) is derived using spectrophotometry. 
+After the red cells are lysed to release the HGB, the sample is analyzed for absorbance and 
+compared using a reference sheath absorbance method using the Beer-Lambert Law.
+
+6
+Sample collection and preparation
+Compatible species
+The ProCyte One* Hematology Analyzer can analyze blood from canines, felines, and equines.
+Collecting samples for use with the ProCyte One analyzer
+The ProCyte One analyzer is compatible with a variety of EDTA collection tube sizes. Because 
+the sample volume required varies by tube type, it’s important to follow the tube manufacturer’s 
+guidelines for fill volume to ensure:
+• The proper EDTA-to-sample ratio.
+• The tube isn’t overfilled, which can lead to clotting or platelet clumping.
+• The tube isn’t underfilled, which can lead to morphological changes, such as red blood cell 
+(RBC) shrinking (crenation).
+IMPORTANT: 
+• When using standard 13 mm x 75 mm collection tubes, the analyzer requires a minimum of 
+500 μL to aspirate the sample.
+• When using microtainer tubes, the analyzer requires a minimum of 200 μL to aspirate the sample.
+Sample collection and preparation best practices
+• Do not recycle syringes and needles—Dull needles can cause trauma to the blood vessel, 
+leading to cell destruction, hemolysis, and platelet activation, especially in cats.
+• Choose the appropriate blood vessel and needle size—Use a blood vessel that allows 
+enough blood to collect within the tube or syringe selected. Select the appropriate needle size 
+for the species.
+• Be gentle on the blood draw—Exceeding the normal blood flow can collapse the blood 
+vessel, which can be painful to the animal and cause hemolysis.
+• Mix the sample with EDTA as soon as possible—When using a syringe and needle, 
+remove the needle from the syringe before dispensing the blood. Remove the cap on the tube 
+and fill the tube to its appropriate level.
+IMPORTANT: Replace the cap on the tube and immediately mix the EDTA sample at least 10 
+times by gentle inversion.
+• Make sure the sample-to-EDTA ratio is appropriate—Fill the tube to its appropriate 
+level for adequate mixing with EDTA. Overfilling may result in clotting or platelet clumping; 
+underfilling can lead to morphological changes, such as red blood cell shrinking (crenation). 
+Refer to the manufacturer’s package insert for appropriate fill volumes.
+• Analyze the sample as soon as possible—For best results, we recommend preparing and 
+testing the sample within 4 hours. Even when refrigerated, blood samples will become less viable 
+after 4 hours. Refrigerated samples should be allowed to warm for 15 minutes after refrigeration.
+• Discard severely hemolyzed samples—If hemolysis is due to improper sample collection, 
+discard the sample and redraw. If hemolysis is persistent, it may be due to a disease state.
+• Discard clotted samples and redraw—The presence of clots will invalidate any results 
+obtained.
+
+7
+Using the analyzer
+Analyzer components
+Front of the analyzer
+Sample  
+drawer
+Analyzer 
+door
+Lock light 
+(sample drawer 
+unavailable 
+when lit)
+Start button
+Status light 
+(ready/low 
+power mode,  
+in process, or 
+error)
+Inside of the analyzer
+Filter door
+Sheath  
+pack
+Reagent  
+pack
+Analyzing samples
+1.    Initiate the sample run on the IDEXX VetLab* Station (for more information, see the IDEXX 
+VetLab Station Operator’s Guide).
+2.    After you’ve confirmed the patient information on the Select 
+Instruments screen, select the ProCyte One icon and then tap Run.
+3. Invert the sample tube 10 times to mix the sample with the 
+anticoagulant. To ensure accurate results, immediately after 
+inversion place the tube in the front slot in the sample drawer, close 
+the drawer, and press the Start button on the front of the analyzer. 
+IMPORTANT: When using microtainer tubes, always remove the 
+cap prior to placing them in the sample drawer.
+
+8
+Canceling a run
+1. In a patient-specific job status area on the Home screen, tap a Ready to Run or Busy 
+ProCyte One icon. A dialog box appears with information about the selected patient and 
+analyzer.
+2. Tap Cancel Run to cancel the scheduled sample run for this patient. The ProCyte One icon 
+is removed from the job status area and the analyzer will remain in a busy status until the 
+analyzer returns to ready.  
+If an in-process sample is canceled, the run is stopped and a cleaning sequence is started, 
+preparing the analyzer for the next analysis.
+Responding to an alert
+If an analyzer experiences a problem, an alert icon  flashes on the upper-right side of the IDEXX 
+VetLab Station title bar. If you are on the Home screen, the affected analyzer’s icon also appears 
+with an Alert status.
+To view an alert from the Home screen
+Tap the analyzer icon or tap the alert message in the title bar to display the alert message. Follow the 
+instructions displayed in the alert message.
+To view an alert from any screen in the IDEXX VetLab Station
+Tap the alert message on the title bar.
+Customizing the settings
+You can customize some of the settings on the ProCyte One analyzer using the ProCyte One 
+Settings button on the ProCyte One Instruments screen. 
+Low power mode
+When the analyzer is idle for 10 minutes, it enters low power mode, using ~5.5 watts instead of the 
+~17 watts used in regular power mode. When in low power mode, the status light on the front of the 
+analyzer changes to a slow, blinking lighter green. The analyzer exits low power mode automatically 
+when a ProCyte One analyzer run is initiated from the IDEXX VetLab* Station.
+Using the analyzer
+
+9
+Interpreting results
+Viewing test results 
+1. On the IDEXX VetLab* Station, select the patient whose results you want to view. Then, do one 
+of the following from the Home screen:
+ –Tap the patient name in the Recent Results list and then tap View.
+ –Tap the Records button, tap the patient name, and then tap View Records.
+2. On the Records: Select Results screen, tap the set of results that you want to view and then 
+tap View Results.
+3. On the Records: Test Results screen, tap the ProCyte One tab to view the analyzer’s test 
+results for the selected patient.
+Printing test results
+Analyzer results are automatically returned to the IDEXX VetLab Station and recorded in the 
+appropriate patient’s record. The diagnostic results report is a comprehensive report of all the test 
+results specified in a laboratory request for that patient on a specific day. 
+Patient test results can be printed automatically each time a set of results are returned or you 
+can manually print the results when needed. For more information, see the IDEXX VetLab Station 
+Operator’s Guide.
+Interpreting dot plots
+Dot plots are a visual representation of the complete blood count (CBC) and are a valuable tool for 
+quickly interpreting sample results on the analyzer. Each dot in the plot represents a single cellular 
+event as it is analyzed by the device. The different cellular elements of the blood appear as distinct 
+clouds of dots, and when the definition of the cloud is diminished or intensified, this indicates 
+variability within that particular cellular population, which could indicate an abnormality. The greater 
+the abnormality, the greater the potential variation is from normal. A blood film review will provide 
+additional information. For example, if the clouds of dots are more dense than normal, an increased 
+count for that particular cell will likely be evident in a blood film.
+
+10
+Red blood cell classification
+Size
+Complexity
+Red blood cells
+Platelets
+Reticulocytes
+RBC fragments
+Dot plot of light absorption vs. granularity (canine)
+Red blood cellsRed blood cells
+Reticulocytes
+PlateletsPlatelets
+RBC fragmentsRBC fragments
+On the red blood cell run, the analyzer classifies the following populations:
+•    Red blood cells (RBCs)—The red blood cells (erythrocytes) are primarily responsible for 
+carrying oxygen to tissue cells and carrying carbon dioxide from those cells. The RBC population 
+is colored red.
+•     Platelets—Platelets (thrombocytes) play an integral role in the processes of primary and 
+secondary hemostasis leading to the formation of clots. Due to their smaller size, they are located 
+low on the y-axis. Because they have cytoplasmic complexity, the larger they are, the further right 
+on the x-axis they will be located. Platelets are colored blue. 
+•  Reticulocytes—Reticulocytes are immature red blood cells that contain ribosomal RNA. 
+The reagent pack contains new methylene blue dye, which precipitates the RNA and gives 
+the cytoplasm more complexity, placing them further right on the x-axis. On the dot plots, the 
+reticulocytes are colored magenta.
+•    RBC fragments—Red blood cell fragments are portions of red blood cell membranes from 
+broken cells. The particles have a similar size to platelets but refract light differently and, therefore, 
+are located to the left of the platelet population. The red blood cell fragments are colored pink.
+Interpreting results
+
+11
+White blood cell classification
+1634
+1238
+8192
+4096
+0
+Complexity
+Neutrophils
+Monocytes
+Lymphocytes
+Eosinophils
+Basophils
+Dot plot of light absorption vs. granularity (canine)
+Size
+Neutrophils
+Eosinophils
+Monocytes
+Lymphocytes
+Basophils
+On the white blood cell run, the analyzer classifies the following populations:
+•  Neutrophils—Neutrophils are generally the largest of the white blood cell populations. They are 
+the primary defense against infection and are phagocytic. The neutrophil population is typically the 
+densest population, and the dot plot representation of this density can quickly reveal inflammatory 
+and infectious changes that may warrant further investigation. The neutrophils are classified above 
+and to the right of the monocyte population in purple.  
+•  Monocytes—Monocytes are responsible for regulating the inflammatory response and 
+phagocytosis. They are typically larger than lymphocytes. They are also more complex than 
+lymphocytes and are found above and slightly to the right of the lymphocytes. The population is 
+colored red. 
+•  Lymphocytes—Lymphocytes are an integral part of the immune system and are important in 
+producing antibodies and cytokines. They are small relative to other white blood cell types and 
+they are found low on the y-axis. The lymphocyte population is colored blue.
+•  Eosinophils—Eosinophils are associated with allergic diseases and parasitic infection by 
+responding to histamine, which is released when parasitic antigens or the allergens bind to mast 
+cells. There is a great deal of variation in the granularity of these cells from species to species. The 
+differences in granularity affect the scatter of light and, therefore, affect the position, from species 
+to species, of the populations relative to the other white blood cell populations. Eosinophils are 
+colored green.
+•  Basophils—Basophils contain both heparin, which is important for inflammation as it prevents 
+coagulation, and histamine, which is associated with hypersensitivity reactions. Basophils 
+comprise the smallest of the major white blood cell populations classified by the analyzer and are 
+found directly to the right of the monocytes and below the neutrophils. The basophil population is 
+colored turquoise.
+Interpreting results
+
+12
+Analysis parameters
+The ProCyte One* Hematology Analyzer provides results for the following parameters
+†
+:
+ParameterDescription
+RBCRed blood cell count
+HCT Hematocrit
+HGB Hemoglobin
+MCV Mean cell volume
+MCH Mean corpuscular hemoglobin
+MCHC Mean corpuscular hemoglobin concentration 
+RDW Red blood cell distribution width 
+%RETICReticulocyte percent
+RETICReticulocyte count
+WBCWhite blood cell count
+%NEU Neutrophil percent
+%LY M Lymphocyte percent
+%MONO Monocyte percent
+%EOSEosinophil percent
+%BASO Basophil percent
+NEUNeutrophil count
+LY MLymphocyte count
+MONO Monocyte count
+EOS Eosinophil count
+BASO Basophil count
+PLT Platelet count
+PDWPlatelet distribution width
+MPV Mean platelet volume
+PCTPlateletcrit
+†
+The number of reported parameters may vary according to species (e.g., PDW is not reported for 
+feline species).
+Interpreting results
+
+13
+Quality control
+Overview
+The purpose of quality control (QC) is to monitor the ProCyte One* Hematology Analyzer’s 
+performance over time. QC also provides data that can be used for adjustment of the analyzer’s 
+parameters if they are determined to be out of specification. 
+IDEXX SmartQC Control
+IDEXX SmartQC* Control is designed for the automated quality control analysis and statistical 
+processing of the ProCyte One analyzer. It consists of synthetic polymer beads with optical 
+properties that simulate blood cells. 
+The SmartQC vial resides in the sample drawer of the ProCyte One analyzer and runs automatically 
+on a weekly basis (Sundays at 3:00 a.m.). 
+Storage
+Unused SmartQC vials should be stored and run at room temperature (15°C–35°C [59°F–95°F]). 
+When properly stored, unused SmartQC vials are stable until the expiration date on the vials. A 
+SmartQC vial is stable for 180 days after it is installed in the analyzer (the analyzer automatically 
+detects and reports when the vial is running low, empty, or expired). 
+Handling
+• Vigorously shake a new vial for 10 seconds to ensure it is well mixed before placing it in the 
+analyzer’s sample drawer. 
+• Using the material without sufficient mixing can result in bead agglutination, potentially 
+impacting the accuracy of the results. 
+• If you forgot to shake the vial before using, do not remove the vial from the analyzer 
+to mix/remix if the cap has been pierced (doing so may causing leaking/staining). Use 
+a new vial.  
+• Do not remove the vial cap. When the vial is opened, there is a potential for fluid evaporation 
+from the vial, which can lead to incorrect count statistics.
+To change the vial
+1. When prompted, tap Replace SmartQC on the IDEXX VetLab* 
+Station.
+2. Open the sample drawer.
+3. Remove the empty/expired SmartQC vial.
+4. Shake a new SmartQC vial vigorously for 10 seconds to ensure it 
+is well mixed and then load it into the rear slot in the sample drawer.
+Note: The analyzer maintains a mixed solution after the initial mixing.
+5. Close the sample drawer.
+
+14
+Viewing quality control results
+ProCyte One quality control lot numbers and results are stored in the QC log found in the IDEXX 
+VetLab Station, where users can change vials and view results.
+To view the QC log 
+1. Tap the ProCyte One icon on the IDEXX VetLab Station Home screen. 
+2. Tap Quality Control to view the results for each lot and date/time. 
+Quality control
+
+15
+Managing sheath and reagents
+Overview
+The ProCyte One* Hematology Analyzer uses self-contained sheath and reagents to process patient 
+samples. This section describes the contents of the sheath pack and reagent pack and how to use 
+them properly with the ProCyte One analyzer. 
+ProCyte One analyzer reagents are for veterinary use only.
+IMPORTANT: Sheath packs and reagent packs must be at room temperature (15°C–35°C/ 
+59°F–95°F) before they are installed in the analyzer. 
+IDEXX ProCyte One Sheath Pack
+The IDEXX ProCyte One* Sheath Pack contains both the sheath solution as well as a waste 
+receptacle. When you are notified by the analyzer that the pack is empty, remove the old pack and 
+insert a new one to proceed.
+IDEXX ProCyte One Reagent Pack
+The IDEXX ProCyte One* Reagent Pack contains dye and diluent solutions specific to the red blood 
+cell or white blood cell analysis. 
+Changing the sheath or reagent pack
+When you are notified by the analyzer that a pack is empty, remove the old pack and insert a new 
+one using these steps:
+1. Open the analyzer door.
+2. To replace the sheath pack: Pull to remove the large gray sheath 
+pack from inside of the analyzer. Then insert a new sheath pack until 
+it clicks into place. 
+OR
+To replace the reagent pack: Pull to remove the small gray reagent 
+pack from inside of the analyzer. Then insert a new reagent pack 
+until it clicks into place.
+3. Close the analyzer door.
+Note: The door will not close completely if the pack is not seated 
+properly.
+Sheath
+Reagent
+
+16
+Viewing sheath and reagent information
+You can view the fill status and expiration information for your sheath and reagent packs on the 
+ProCyte One Instruments screen. 
+To view sheath and reagent fill status and expiration information
+Tap the ProCyte One icon on the IDEXX VetLab Station Home screen. Two gauges display in the 
+center of the screen indicating the fill status for the sheath and reagent packs (the gray bar indicates 
+the fill level). The remaining days until each expires displays under the gauges. When the fill status is 
+low or empty, the gauge and days until expiration turns red. 
+Sheath pack components
+The ProCyte One Sheath Pack is a self-enclosed consumable containing sheath reagent and a 
+waste receptacle and has an unopened stability of 12 months from date of manufacture. Once 
+opened, the product is stable for 90 days or until the date of expiration (whichever comes first). 
+Sheath packs must be at room temperature (15°C–35°C/59°F–95°F) before they are installed in the 
+analy zer. 
+Intended use
+Sheath is the system fluid that is primed through all of the fluidic lines to keep them clean and ready 
+for a sample run. It provides a reference measurement for HGB analysis and carries the core stream 
+of cells to the laser for individual assessment.
+Reagent pack components
+The reagent pack contains separate red and white reagents and has an unopened stability of 
+9 months from date of manufacture. Once opened, the product is stable for 90 days or until 
+the date of expiration (whichever comes first). Reagent packs must be at room temperature 
+(15°C–35°C/59°F–95°F) before they are installed in the analyzer. 
+Intended use
+The red reagent causes red blood cells to sphere, stains cells containing nucleic acids with new 
+methylene blue dye, and provides the desired dilution for analysis. The white reagent lyses the red 
+blood cells and provides the appropriate dilution for HGB and WBC analysis.
+Disposing of sheath and reagent packs
+Dispose of the materials within the sheath and reagent packs in accordance with local regulations.
+The sheath and reagent pack containers are recyclable—please recycle them in accordance with 
+your local recycling guidelines.
+Managing sheaths and reagents
+
+17
+Maintenance
+Overview
+A variety of maintenance and diagnostic procedures allow you to maintain and service the  
+ProCyte One* Hematology Analyzer.
+Note: Some of these tasks must be completed with assistance from an IDEXX Customer and 
+Technical Support representative. Contact IDEXX Customer and Technical Support when prompted 
+(see “IDEXX Customer and Technical Support contact information” on page 28).
+Upgrading the software
+As new features and functionality are added to the analyzer, you will receive software upgrades from 
+IDEXX. These upgrades will be sent automatically to your IDEXX VetLab* Station via your IDEXX 
+SmartService* Solutions connection. You’ll receive a message in the IDEXX VetLab Station Message 
+Center when an upgrade is completed.
+Performing the bleach clean procedure
+Although the analyzer performs a self-cleaning sequence after each analysis and cycles fluid nightly 
+outside of normal business hours, you may be asked by IDEXX Customer and Technical Support to 
+complete a bleach clean. This process washes contaminants from the analyzer’s lines and optical 
+detector block flow cell and takes approximately 13 minutes to complete. 
+If you don’t have IDEXX Hydro-Clean, you must prepare a 5% bleach solution by combining filtered, 
+unscented bleach with distilled/deionized water. The ratio of bleach to distilled/deionized water 
+varies depending on the concentration of the bleach (for example, Clorox* Regular Bleach has a 6% 
+concentration, so the solution should be 5 parts Clorox Regular Bleach and 1 part distilled/deionized 
+water).
+IMPORTANT: 
+• Only use high-quality bleach like Clorox Regular Bleach, which is a filtered and unscented 
+bleach without surfactants. DO NOT USE other regular bleaches, scented bleaches, gel, high-
+efficiency, outdoor, splashless, or generic versions of regular bleach. DO NOT USE tap or sterile 
+water. The solution can be used up to one week after it is made. 
+• Always wear general laboratory PPE (such as gloves, eyewear, etc.) to protect yourself from skin 
+and/or eye irritation.
+To run the bleach clean procedure 
+1. Tap the ProCyte One icon on the IDEXX VetLab Station Home screen. 
+2. Tap Diagnostics. 
+3. Tap Bleach Clean.  
+4. Read the on-screen message and verify that the time required for the procedure does not 
+impact your workflow. 
+5. Dispense 2 mL of IDEXX Hydro-Clean (or the 5% bleach solution) into a 13 mm x 75 mm 
+(untreated or EDTA-treated and rinsed) tube with the stopper removed.
+6. Insert the tube into the front slot in the sample drawer, close the sample drawer, and then 
+press the Start button on the front of the analyzer.
+
+18
+Cleaning the case
+Always disconnect the power cable before cleaning the analyzer.
+Clean the outside of the analyzer with a damp (not wet) lint-free cloth. A mild disinfectant or liquid 
+soap will remove grease. Do not use any of the following near the analyzer: organic solvents, 
+ammonia-based cleaners, ink markers, sprays containing volatile liquids, insecticides, polish, or 
+room freshener. 
+Care should be taken not to spill any samples, chemicals, cleaning agents, water, or other fluids  
+on/in the analyzer.
+Note: Dust and animal hair can lead to analyzer failures. Routinely dust off the analyzer and 
+surrounding surfaces with a damp cloth.  
+Replacing the filter
+An alert will appear on the IDEXX VetLab Station touch screen when the filter needs to be changed. 
+It is important that you only change the filter when prompted or by accessing the procedure found 
+on the ProCyte One Diagnostics screen on the IDEXX VetLab Station. 
+1. Open the analyzer door.
+2. Remove the filter panel.
+3. Lift up on the green latch so that it’s perpendicular to the analyzer.
+4. Pull the filter to remove it from the analyzer.
+5. Load a new filter into the analyzer, ensuring the arrow on the filter is 
+pointing up and is aligned with the light gray chamber above it.
+6. Lower the green latch so that it’s parallel to the analyzer.
+7. Replace the filter panel.
+8. Close the analyzer door.
+Maintenance
+
+19
+Troubleshooting
+Overview
+Some of these tasks must be completed with assistance from an IDEXX Customer and Technical 
+Support representative. Contact IDEXX Customer and Technical Support when prompted (see 
+“IDEXX Customer and Technical Support contact information” on page 28).
+IMPORTANT: The ProCyte One* Hematology Analyzer must have a Ready status to run a 
+maintenance procedure. Most on-demand diagnostic and maintenance tasks are accessible from 
+the ProCyte One Diagnostics screen on the IDEXX VetLab* Station.
+Differences in results
+With a commercial laboratory or another instrument
+Comparing results from different laboratories that may be using different equipment or methods 
+is imprecise at best. Any comparisons should be performed on the same sample that has been 
+“split,” stored under like conditions, and tested at approximately the same time. If too much time 
+elapses between comparative sample runs, the sample can age. For example, after 8 hours, MCV 
+values change as cells tend to swell. Compare each result to the reference interval stated by IDEXX 
+or the commercial laboratory (as appropriate). Each result should have the same relationship to 
+its method’s reference interval. For instance, a sample giving a ProCyte One analyzer result that is 
+slightly below the reference interval should produce a laboratory result slightly below the laboratory’s 
+reference interval.
+With your own expectations
+If you receive results that are not what you expected for a particular patient, consider the following:
+• Were there any abnormalities noted in the sample taken (e.g., hemolysis, lipemia, and stress) 
+that could cause the changes seen?
+• How far outside the reference interval is the result? The more narrow the reference interval, the 
+more important minor changes become. 
+• Would any treatments or drugs the patient may be taking alter the results?
+• Do clinical findings support the results? Unexpected abnormal results are usually 
+accompanied by other evidence.
+• Is the result biologically significant or possibly so? 
+• What other tests or procedures might be used to confirm or reject this result?
+All laboratory results should be interpreted in light of the case history, the clinical signs, and the 
+results of ancillary tests.
+What should I do if I receive an alert?
+In the event of an alert, follow the on-screen instructions. If the problem persists, please contact 
+IDEXX Customer and Technical Support.
+
+20
+How do I reboot my analyzer in the event of a system issue?
+Press and hold the Start button on the front of the analyzer for 5 seconds or until the status light 
+begins to blink yellow. The reboot process takes approximately 4 minutes. The analyzer is available 
+for use when the LED returns to a solid green and the ProCyte One icon on the IDEXX VetLab 
+Station Home screen appears with a Ready status.
+Troubleshooting
+
+21
+Appendix
+Installing the ProCyte One analyzer
+Environmental guidelines
+• Place the ProCyte One* Hematology Analyzer on a level surface in a well-ventilated area away 
+from obvious sources of heat, direct sunlight, cold, humidity, vibrations, or dust. Do not place 
+the analyzer in a location where it can be splashed by water. 
+ –Mobile practices do not provide a stable environment to ensure laser alignment and 
+optimum performance for any of IDEXX’s hematology analyzers and reagents, including  
+the ProCyte One analyzer. The laser in these analyzers requires minimal movement 
+to ensure stability. An IDEXX SmartService* Solutions connection also plays a very 
+important role for Pay Per Run, sending and collecting lot information for consumables, 
+and our ability to remotely connect to troubleshoot.
+• Place the ProCyte One analyzer in a space large enough to be used safely, including when the 
+sample drawer is open. Position with at least 2 inches (≈5 cm) of space above, behind, and 
+on at least one side of the analyzer. This spacing requirement also applies when placed next 
+to other IDEXX VetLab* instruments. 
+• Position the analyzer so that the power cord can reach a nearby electrical outlet. The power 
+cord should be easily accessible.
+• Do not place weight on top of the ProCyte One analyzer in excess of 12 pounds (≈5.5 kg).
+• Do not install the ProCyte One analyzer in operating environments where chemicals are stored 
+or gas can develop. This includes areas that have electroconductive or flammable gases such 
+as oxygen, hydrogen, and anesthesia.
+To install the IDEXX VetLab router
+If you already have an IDEXX VetLab* router connected directly to the IDEXX VetLab* Station 
+computer, you can skip this section and move to the  “To install the analyzer” section (below).
+1. Connect the AC power adapter to the power port on the back of the IDEXX-supplied router.
+2. Plug the AC power adapter into an electrical outlet.
+3. Connect one end of the Ethernet cable (provided with the router) into any available numbered 
+port on the router.
+IMPORTANT: Do not connect the IDEXX VetLab Station directly to the Internet/WAN port on 
+the router.
+4. Connect the other end of the Ethernet cable into the IDEXX VetLab Station computer’s 
+Ethernet port (located on the back of the computer).
+
+22
+To install the analyzer
+The ProCyte One analyzer works in conjunction with the IDEXX VetLab Station. If you do not have an 
+open port on the IDEXX VetLab router, please contact IDEXX Customer and Technical Support.
+1. Unpack the ProCyte One analyzer choosing an optimal location for the instrument per 
+the environmental guidelines above. For optimum results, room temperature should be at 
+15°C–35°C (59°F–95°F) and relative humidity at 15%–75%.
+Note: The analyzer’s cooling vents are located at the base and at the back of the analyzer. 
+Please leave these areas unobstructed to ensure proper ventilation.
+2. Connect the analyzer to the IDEXX VetLab router by hooking up to a numbered port on the 
+router using an Ethernet cable (provided).
+3. Load a sheath pack and reagent pack in the ProCyte One analyzer for initial priming. For more 
+information on changing the sheath and reagent packs, see “Changing the sheath or reagent 
+pack” on page 15.
+4.  Power on the ProCyte One analyzer by plugging in the power supply. Once the ProCyte One 
+icon displays on the IDEXX VetLab Station Home screen, the connections are complete. 
+Once started, the ProCyte One analyzer will automatically prime the fluidic lines (this takes 
+approximately 8 minutes). During the prime sequence, the status light LED on the analyzer will 
+display steady yellow. Once the status light displays steady green, the analyzer is ready for 
+use.
+Note: If the ProCyte One icon does not appear on the IDEXX VetLab Station Home screen 
+within 3 minutes, contact IDEXX Customer and Technical Support for assistance
+Operating conditions and technical specifications
+Main unit dimensionsHeight: 14.1" (358 mm)
+Depth: 15.32" (389 mm)
+Width: 11.42" (290 mm)
+Main unit weightApproximately 22 lb (10 kg)
+Operating temperature15°C–35°C (59°F–95°F)  
+Optimum: 23°C (73.4°F)
+For indoor use only.
+Storage temperatureInstrument storage temperature: 5°C–38°C (41°F–100°F) 
+Sheath and reagent pack storage temperature: 15°C–35°C 
+(59°F–95°F)
+Operating humidity15%–75%
+Power supply100–240 VAC, 50–60 Hz, 1.5 Amps
+Power supply protection: IP41 
+Rated: 24VDC, 5A
+Input/output connectionsThere are two user-accessible input/output connections on 
+the rear of the ProCyte One analyzer (power connection and 
+Ethernet port for connection to IDEXX VetLab Station).
+Appendix
+
+23
+LaserClass 1 Laser Product containing a Class 3B Embedded Laser:
+• Beam divergence (with cover off): 3 degrees
+• Maximum output power: 40 milliwatts
+• Wavelength: 640 nanometers
+• Output: Continuous (CW)
+• Laser hazard classification: Class 3B, “Warning”
+This equipment complies with:
+• FDA Standard 21 CFR 1040.10
+• IEC 60825-1:2014
+Performance, throughput, and sample input specifications
+Time to results5 minutes
+Display rangeWBC0.00–999.99 K/μL
+RBC0.00–99.99 M/μL
+HGB0.0–35.0 g/dL
+HCT0.0%–100.0%
+PLT0–9999 K/μL
+%RETIC0.00%–99.99%
+RETIC0–9999 K/μL
+Precision  
+Precision was calculated by a 
+mean of %CV of 10 canine runs 
+from each of 12 analyzers  
+(7 analyzers had 2 sets of 
+precision runs). 
+  
+WBC3.4%
+RBC1.1%   
+HGB1.3% 
+HCT1.2% 
+PLT3.2% 
+RETIC15% (RBC 3.00 M/μL or more, %RETIC 1%–4%)
+%RETIC15% (RBC 3.00 M/μL or more, %RETIC 1%–4%)
+Analysis parametersSee page 12 for a complete list of parameters.
+Appendix
+
+24
+Accuracy
+Analysis was generated 
+from 832 samples across 17 
+instruments and compared to 
+the ProCyte Dx* Hematology 
+A naly zer.
+WBCR ≥ 0.90
+RBCR ≥ 0.95
+HGBR ≥ 0.90
+HCTR ≥ 0.90
+PLTR ≥ 0.90
+RETICR ≥ 0.90
+#NEUR ≥ 0.90
+#LY MR ≥ 0.60
+#MONOR ≥ 0.60
+#EOSR ≥ 0.70
+#BASOR ≥ 0.45
+Linearity
+Data generated using whole 
+blood panels.
+WBC0 –310 K /μL
+RBC0–16 M/μL
+HGB0 –25 g/dL
+HCT0%–60%
+PLT0–2000
+ 
+K/μL
+RETIC0–3 M/μL
+Aspiration volume55 μL
+Sample volume required 
+for proper aspiration
+Standard 13 mm x 75 mm collection tubes: Minimum of 500 μL
+Microtainer sample tube: Minimum of 200 μL 
+Safety precautions
+Position the analyzer so that the power cord is easily accessible.
+DO NOT stack other equipment or containers on top of the analyzer.
+Keep analyzer away from sources of heat or flames.
+DO NOT place or operate the analyzer near x-ray equipment, photocopiers, or other devices that 
+generate static or magnetic fields.
+PROTECT your equipment from damp conditions or wet weather.
+Take care not to spill water or other fluids on the unit.
+CAUTION: Use of controls or adjustments or performance of procedures other than those specified 
+herein may result in hazardous radiation exposure.
+DO NOT use any of the following liquids, abrasives, or aerosol sprays on or near the analyzer, as 
+they may damage the outer case and may adversely affect results:
+• Organic solvents
+• Ammonia-based cleaners
+• Ink markers
+• Sprays containing volatile liquids
+• Insecticides
+• Polish
+• Room freshener
+Appendix
+
+25
+The analyzer does not contain any user-serviceable components. DO NOT disassemble.
+Line voltage for the ProCyte One analyzer is 100–240 V AC, 50–60 Hz. Be sure to plug all equipment 
+into properly grounded electrical outlets.
+Use only the power cable supplied.
+Disconnect the power cable:
+• If the cable becomes frayed or otherwise damaged.
+• If anything is spilled onto the analyzer.
+• If your analyzer is exposed to excessive moisture.
+• If your analyzer is dropped or the case has been damaged.
+The ProCyte One analyzer should only be used as described in this guide. Failure to follow these 
+instructions may adversely affect results as well as the safety features of the analyzer (including, but 
+not limited to, hazardous radiation exposure).
+International symbol descriptions
+International symbols are often used on packaging to provide a pictorial representation of particular 
+information related to the product (such as expiration date, temperature limitations, batch code, 
+etc.). IDEXX Laboratories has adopted the use of international symbols on our analyzers, product 
+boxes, labels, inserts, and manuals in an effort to provide our users with easy-to-read information.
+SymbolDescriptionSymbol
+Description
+Use by
+A utiliser avant
+Verwendbar bis
+Usare entro
+Usar antes de
+使用期限
+Temperature limitation
+Température limite
+Zulässiger Temperaturbereich
+Temperatura limite
+Limitación de temperatura
+保存温度（下限）
+Batch code (Lot)
+Code de lot (Lot)
+Chargenbezeichnung (Partie)
+Codice del lotto (partita)
+Código de lote (Lote)
+ロット番号
+Upper limit of temperature
+Limite supérieure de température
+Temperaturobergrenze
+Limite superiore di temperatura
+Limite superior de temperatura
+保存温度（上限）
+Serial number
+Numéro de série
+Seriennummer
+Numero di serie
+Número de serie
+シリアル番号
+Consult instructions for use
+Consulter la notice d’utilisation
+Gebrauchsanweisung beachten
+Consultare le istruzioni per l’uso
+Consultar las instrucciones de uso
+取扱説明書をご参照ください。
+Catalog number
+Numéro catalogue
+Bestellnummer
+Numero di catalogo
+Número de catálogo
+製品番号
+Keep away from sunlight
+Conserver à l’abri de la lumière
+Vor direkter Sonneneinstrahlung 
+schützen
+Mantener alejado de la luz solar
+Tenere lontano dalla luce diretta del sole 
+遮光してください。
+Appendix
+
+26
+SymbolDescriptionSymbol
+Description
+Authorized Representative in the 
+European Community
+Représentant agréé pour la C.E.E.
+Autorisierte EG-Vertretung
+Rappresentante autorizzato nella  
+Comunitá Europea
+Representante autorizado en la  
+Comunidad Europea
+EC内の正規販売代理店
+WEEE Directive 2002/96/EC
+Directive 2002/96/CE (DEEE)
+WEEE-Richtlinie 2002/96/EG
+Directiva 2002/96/CE RAEE
+Direttiva RAEE 2002/96/CE
+廃電気電子機器指令（WEEE Directive 
+2002/96/EC）
+Manufacturer
+Fabricant
+Hersteller
+Ditta produttrice
+Fabricante
+製造元
+Biological risks
+Risques biologiques
+Biogefährlich
+Rischi biologici
+Riesgos biológicos
+生物学的リスク
+Caution, consult accompanying 
+documents
+Attention, consulter les documents 
+joints
+Achtung, Begleitdokumente 
+beachten
+Attenzione, consultare la 
+documentazione allegata
+Precaución, consultar la 
+documentación adjunta
+注意、添付文書をご参照ください。
+2
+Do not reuse
+Usage unique
+Nicht wiederverwenden
+No reutilizarw
+Non riutilizzare 
+再利用しないでください。
+Caution, hot surface
+Attention, surface très chaude
+Precaución, superficie caliente
+Vorsicht, heiße Oberfläche
+Attenzione, superficie rovente
+高温注意
+Electrostatic-sensitive device
+Appareil sensible aux charges 
+éléctrostatiques
+Dispositivo sensible a descargas 
+electrostáticas
+Gerät ist sensibel auf elektrostatische 
+Ladung
+Dispositivo sensibile alle scariche 
+elettrostatiche
+静電気の影響を受ける装置
+Keep dry
+Conserver dans un endroit sec
+Mantener seco
+Vor Nässe schützen
+Tenere al riparo dall’umidità
+濡らさないこと。
+Fragile
+Fragile
+Frágil
+Zerbrechlich
+Fragile
+取扱注意
+This side up
+Haut
+Este lado hacia arriba
+Diese Seite nach oben
+Alto
+この面を上にする。
+Date of manufacture
+Date de production
+Fecha de producción
+Herstelldatum
+Data di produzione
+製造年月日:
+Appendix
+
+27
+SymbolDescriptionSymbol
+Description
+GHS P
+304
+IF INHALED:
+EN CAS D’INHALATION:
+EN CASO DE INHALACIÓN:
+BEI EINATMEN:
+IN CASO DI INALAZIONE:
+吸引した場合
+GHS P
+312
+Call a POISON CENTER or  
+doctor/physician if you feel unwell
+Appeler un CENTRE ANTIPOISON ou un 
+médecin en cas de malaise.
+Llamar a un CENTRO DE 
+INFORMACION TOXICOLOGICA o a un 
+médico en caso de malestar
+Bei Unwohlsein 
+GIFTINFORMATIONSZENTRUM oder 
+Arzt anrufen
+In caso di malessere, contattare un 
+CENTRO ANTIVELENI o un medico
+気分が悪くなった時は医師に連絡すること
+SymbolDescription
+GHS H
+303/313/333
+May be harmful if swallowed, on contact with skin, and if inhaled
+Peut être nocif par ingestion, inhalation, par contact avec la peau et par inhalation
+Puede ser nocivo en caso de ingestión, en contacto con la piel o en caso de inhalación
+Kontakt mit der Haut, einatmen oder verschluken kann Gesundheitschäden verursachen
+Può essere nocivo per ingestione, inalazione, e contatto con la pelle
+吸入、接触または飲み込むと有害のおそれ。
+Other symbols
+SymbolDescriptionSymbolDescription
+USB symbolEthernet/network symbol
+Appendix
+
+28
+IDEXX Customer and Technical Support contact information
+IDEXX representative: 
+Telephone/voice mail: 
+United States: 1-800-248-2483
+Australia: 1300 44 33 99
+Austria: 43 (0)1 206 092 729
+Belgium: 32 (0)27 00 64 38
+Bra zil: 080 0 -777-7027
+Canada: 1-800-248-2483
+China (PRC): 400-678-6682
+Czech Republic: 420-239018034
+Denmark: 45 (0) 43 31 04 39
+Finland: 358 (0)9 7252 2253
+France: 33 (0) 810 433 999
+Germany: 49 (0)69 153 253 290
+Ireland: 353 (0)1 562 1211
+Italy: 39 02 87 10 36 76
+Japan: 0120 -71-4921
+Appendix
+Latin America: tecnico-latam@idexx.com
+Luxembourg: 352 (0)34 20 80 87 22
+Netherlands: 31 (0)70 700 7033
+New Zealand: 0800 83 85 22
+Norway: 47 24 05 51 10
+Poland: 48 22 853 40 01
+Russia: 7-4999-511-255 
+Singapore: 65 6807-6277
+Slovakia: 421-268622417
+South Africa: 27 11 691 8200
+South Korea: 080 7979 133
+Spain: 34 932 672 660 or 34 916 376 317
+Sweden: 46 (0)8 5198 9566
+Switzerland: 41 (0)44 511 22 37
+Taiwan: 0800 291 018
+United Kingdom: 44 (0)20 3788 7508
+
+
+--- END OF DOCUMENT: procyte-one-operators-guide-en.pdf ---
+
+--- START OF DOCUMENT: procyte-one-pay-per-run-guide-us.pdf ---
+
+
+Pay per Run Benefits
+For the ProCyte One Hematology Analyzer
+Pay per Run overview
+Pay per Run
+†
+ for the ProCyte One* Hematology Analyzer is 
+an innovative test billing and inventory management system 
+that increases cash flow by allowing you to bill your clients in 
+advance of your paying for the sample analysis. Pay per Run 
+works with your IDEXX SmartService* Solutions connection 
+to monitor patient runs on your ProCyte One analyzer and 
+bill for those runs on a monthly basis:
+Items that are invoiced
+• Patient runs (If a patient’s test is rerun in a 24-hour 
+period, only the first run will be invoiced.)
+• IDEXX SmartQC* Control monthly fee (IDEXX SmartQC 
+runs are not invoiced individually.)
+Note: If your IDEXX SmartService Solutions is accidentally 
+disconnected, the data for any runs that were completed 
+(or supplies used) during the outage will be captured once 
+IDEXX SmartService Solutions is reconnected. 
+Receiving ProCyte One supplies
+IDEXX proactively monitors your usage of ProCyte One 
+supplies via your IDEXX SmartService connection and will 
+send you these supplies automatically
+†
+ when your inventory 
+is low: 
+• Reagent packs
+• Sheath packs
+• IDEXX SmartQC Control
+• Filters
+Understanding your invoice
+Invoices are 
+generated on the 
+last week of each 
+month. 
+Invoices include 
+the date the test 
+was run, the patient 
+name, associated 
+costs, and a 
+monthly IDEXX 
+SmartQC charge.
+Note: ProCyte 
+One uses 
+IDEXX SmartQC 
+Control—a quality 
+control material, 
+specifically 
+developed by 
+IDEXX, that is 
+housed in the sample 
+drawer and is run periodically to monitor the performance of 
+the ProCyte One analyzer.  
+06/30/2020ProCyte One CBC 
+(I10630)Martin/Lace
+ 9.251 9.25
+95-0013957-00
+*
+SEDIVUE PAY PER RUN
+BILL-TO ACCOUNT NUMBER:
+1234
+Billing Address
+ABC VETERINARY CLINIC
+123 MAIN ST
+PORTLAND, ME 12345
+INVOICE NUMBER1234567891
+INVOICE DATE07/26/2020
+SHIP-TO ACCOUNT NUMBER:1234
+Shipping Address
+ABC VETERINARY CLINIC
+123 MAIN ST
+PORTLAND, ME 12345
+PO NUMBERPAYMENT TERMSDELIVERY NUMBERCURRENCY
+ProCyte One PPRNet Due on 25th of next monthUSD
+RUN DATEDESCRIPTIONUNIT PRICEQTYNET AMOUNT
+07/09/2020ProCyte One SmartQC 14.99114.99
+In-House Diagnostics 1-800-814-1147 option 1 This transaction is subject to the IDEXX terms and conditions of sale found at https://www.idexx.com/naterms
+IDEXX'S privacy policies can be viewed at https://www.idexx.com
+Please detach this section and enclose with your payment.  DO NOT SEND CASH!
+ACCOUNT NUMBERINVOICE NUMBERINVOICE DATE
+CURRENCY
+1234123456789107/26/2020
+TOTAL DUE
+$102.35USD
+IDEXX Laboratories, Inc.
+One IDEXX Drive
+Westbrook, Maine  04092
+ABC VETERINARY CLINIC
+123 MAIN ST
+PORTLAND, ME 12345
+Please Send Your Payment To This Address:
+IDEXX Distribution, Inc.
+PO Box 101327
+Atlanta, GA 30392-1327
+Enter Amount Enclosed:
+000000000000000000000000000000000000000000000000
+Page 1 of 1
+If you would like to pay by credit card or make an online payment
+from your checking account, please enroll in Invoice Gateway using
+the below website and enrollment token.
+Website:http://idexx.billtrust.com
+Enrollment Token:DHR THH DMD
+To sign up for our Autopay Program please call:1-800-814-1147
+ITEM
+07/01/2020ProCyte One CBC 
+(I10632)Park/Sophie
+ 9.251 9.25
+95-0013957-00
+07/02/2020ProCyte One CBC 
+(I10633)Brown/Zephyr
+(I9624)Evans/Kizer
+ 9.252 18.50
+95-0013957-00
+07/06/2020ProCyte One CBC 
+(I205)Schuerman/Ambert
+(I9)Adams/Riley
+ 9.252 18.50
+95-0013957-00
+95-0013958-00
+Sales Tax
+Total Amount
+13.36
+102.35
+07/07/2020ProCyte One CBC 
+(I372)Lindquist/Athena
+(I10639)Patterson/Quinn
+ 9.252 18.50
+95-0013957-00
+Have questions?
+• See the frequently asked questions on the reverse side.
+• For questions about your ProCyte One Pay per Run 
+invoice, contact IDEXX Billing Services at 1-800-814-1147.
+• For questions about your ProCyte One analyzer or 
+IDEXX SmartService Solutions, contact IDEXX Customer 
+and Technical Support at 1-800-248-2483.
+• For questions about all ProCyte One supplies 
+and accessories, contact your IDEXX Inside Sales 
+Representative at 1-888-794-3399.
+Example of a ProCyte One Pay per Run 
+invoice (for demonstration purposes only)
+†
+Not available in all regions outside of North America.
+
+© 2021 IDEXX Laboratories, Inc. All rights reserved. • 06-0014815-02
+*ProCyte One, IDEXX SmartService, IDEXX SmartQC, and IDEXX VetLab are trademarks or registered  
+trademarks of IDEXX Laboratories, Inc. or its affiliates in the United States and/or other countries.
+Frequently asked questions
+How does Pay per Run benefit our practice?
+Our innovative Pay per Run
+†
+ invoicing and inventory 
+management system lets you pay for tests after you run 
+them. You are invoiced at the end of the month (similar to 
+how you receive your IDEXX Reference Laboratories invoices 
+today), after you’ve already billed clients for the service. This 
+way, you can eliminate up-front inventory costs and minimize 
+the risks of inventory management. Additionally, based 
+on your monthly usage, we'll even restock your inventory 
+automatically
+†
+ when you need it! How simple is that?
+Why do we need to have an active IDEXX SmartService* 
+Solutions connection to run the ProCyte One* analyzer?
+ProCyte One customers are required to have an active IDEXX 
+SmartService* Solutions connection on their IDEXX VetLab* 
+Station so that we can monitor analyzer usage and provide 
+an invoice at the end of the month. In addition, it is also how 
+we know when to send you more ProCyte One supplies 
+when you need them, as well as a way to help troubleshoot 
+problems if they should arise.
+What if a sample must be rerun for troubleshooting or 
+confirmation purposes?
+If a sample (with the same patient ID and sample type) 
+is rerun within the same 24-hour period, you will not be 
+charged for the duplicate run.
+Will we get charged for runs completed on the day of 
+installation?
+No, IDEXX provides you with 3 days of free testing, including 
+the day of installation.
+Will we be able to process samples on the ProCyte One 
+analyzer if our IDEXX SmartService Solutions connection 
+is off-line?
+IDEXX SmartService Solutions should be in a connected 
+state on your IDEXX VetLab Station at all times. The IDEXX 
+SmartService Solutions icon on the IDEXX VetLab Station 
+screen will turn red when off-line. If your connection is 
+off-line for a period of time, you will be notified so that we 
+can troubleshoot the issue. All runs made while off-line 
+will be captured once IDEXX SmartService Solutions is 
+reconnected.
+Do I need to notify IDEXX if there are any changes to our 
+analyzer’s location?
+Yes, if you change the location of any of your IDEXX 
+analyzers from one practice to another, notify IDEXX 
+Customer and Technical Support at 1-800-248-2483 to 
+prevent incorrect billing.
+ 
+†
+Not available in all regions outside of North America.
+--- END OF DOCUMENT: procyte-one-pay-per-run-guide-us.pdf ---
+
+--- START OF DOCUMENT: procyte-one-quick-ref-guide-en.pdf ---
+
+
+ProCyte One Hematology Analyzer
+Quick Reference Guide
+Analyzer components
+Sample  
+drawer
+Analyzer 
+door
+Lock light 
+(sample drawer 
+unavailable 
+when lit)
+Start button
+Status light 
+(ready,  
+in process, 
+or error)
+ 
+ 
+ 
+Sample preparation and volume required
+The ProCyte One* Hematology Analyzer is compatible with 
+a variety of EDTA collection tube sizes. Because the sample 
+volume required varies by tube type, it’s important to follow 
+the tube manufacturer’s guidelines for fill volume to ensure:
+• The proper EDTA-to-sample ratio.
+• The tube isn’t overfilled, which can lead to clotting or 
+clumping.
+• The tube isn’t underfilled, which can lead to morphological 
+changes, such as red blood cell (RBC) shrinking 
+(crenation).
+Running a sample
+1. Initiate the sample run on the IDEXX VetLab* Station (for 
+more information, see the IDEXX VetLab Station Operator’s 
+Guide).
+2. After you’ve confirmed the patient information on the 
+Select Instruments screen, select the ProCyte One icon 
+and then tap Run.
+3. Invert the sample tube 10 times to mix the sample with the 
+anticoagulant. To ensure accurate results, immediately 
+after inversion place the tube in the front slot in the 
+sample drawer, close the drawer, and press the Start 
+button on the front of the analyzer. 
+IMPORTANT: When using microtainer tubes, always 
+remove the cap prior to placing them in the sample 
+drawer.
+Changing the reagent pack, sheath pack, and 
+SmartQC
+You will be prompted to replace the packs when they are 
+empty or expired.
+1. Open the analyzer door.
+2. To replace the reagent pack: 
+Pull to remove the small gray 
+reagent pack from inside of 
+the analyzer. Then insert a new 
+reagent pack until it clicks into 
+place. 
+OR 
+To replace the sheath pack: 
+Pull to remove the large gray 
+sheath pack from inside of the 
+analyzer. Then insert a new 
+sheath pack until it clicks into 
+place.
+3. Close the analyzer door.
+Note: The door will not close 
+completely if the pack is not 
+seated properly.
+To change the SmartQC:
+SmartQC* is a quality control material specifically developed 
+by IDEXX that is housed in the sample drawer and is run 
+periodically to monitor the performance of the ProCyte One 
+analyzer. 
+You will be prompted to change the SmartQC vial when it is 
+empty or expired. 
+1. Open the sample drawer.
+2. Remove the empty/expired 
+SmartQC vial.
+3. Shake a new SmartQC vial 
+vigorously for 10 seconds to 
+ensure it is well mixed and then 
+load it into the rear slot in the  
+sample drawer.
+4. Close the sample drawer.
+Sheath
+Reagent
+© 2021 IDEXX Laboratories, Inc. All rights reserved. • 06-0014463-00 
+*ProCyte One, IDEXX VetLab, and SmartQC are trademarks or registered trademarks of IDEXX Laboratories, Inc. or its affiliates  
+in the United States and/or other countries. All other product and company names and logos are trademarks of their respective holders.
+--- END OF DOCUMENT: procyte-one-quick-ref-guide-en.pdf ---
+
+--- START OF DOCUMENT: procyte-one-reference-ranges-en.pdf ---
+
+
+Canine
+(all life stages)
+Feline
+(all life stages)
+Equine
+(all life stages)
+ParameterLowHighLowHighLowHigh
+RBC5.65M/μL8.87M/μL6.54M/μL12.20M/μL6.40M/μL10.40M/μL
+HCT37.3%61.7%30.3%52.3%30.0%47.0%
+HGB13.1g/dL20.5g/dL9.8g/dL16.2g/dL10.7g/dL16.5g/dL
+MCV61.6fL73.5fL35.9fL53.1fL41.1fL52.4fL
+MCH21.2pg25.9pg11.8pg17.3pg14.1pg18.6pg
+MCHC32.0g/dL37.9g/dL28.1g/dL35.8g/dL32.8g/dL38.6g/dL
+RDW13.6%21.7%15.0%27.0%24.6%33.3%
+RETIC #10.0K/μL110.0K/μL3.0K/μL50.0K/μLN/AN/A
+WBC5.05K/μL16.76K/μL2.87K/μL17.02K/μL4.90K/μL11.10K/μL
+NEU #2.95K/μL11.64K/μL2.30K/μL10.29K/μL2.50K/μL6.90K/μL
+LYM #1.05K/μL5.10K/μL0.92K/μL6.88K/μL1.50K/μL5.10K/μL
+MONO #0.16K/μL1.12K/μL0.05K/μL0.67K/μL0.20K/μL0.60K/μL
+EOS #0.06K/μL1.23K/μL0.17K/μL1.57K/μL0.00K/μL0.80K/μL
+BASO #0.00K/μL0.10K/μL0.01K/μL0.26K/μL0.00K/μL0.10K/μL
+PLT 148K/μL484K/μL151K/μL600K/μL100K/μL250K/μL
+MPV 8.7fL13.2fL11.4fL21.6fL5.6fL10.4fL
+PDW9.1fL19.4fLN/AN/ANRNR
+PCT
+0.14%0.46%0.17%0.86%NRNR
+N/A = result and reference interval not reported
+NR = reference interval not reported
+Reference Intervals for the
+IDEXX ProCyte One* Hematology Analyzer
+(as of IDEXX VetLab* Station software version 5.09)
+© 2021 IDEXX Laboratories, Inc. All rights reserved. • 06-0015050-01 
+*ProCyte One and IDEXX VetLab are trademarks or registered trademarks of IDEXX Laboratories, Inc. or its affiliates in the United States and/or other countries.
+--- END OF DOCUMENT: procyte-one-reference-ranges-en.pdf ---
+
+--- START OF DOCUMENT: procyte-smartqc-control.pdf ---
+
+
+English
+Choose your language
+Choisissez votre langue
+Seleccione su idioma
+Wählen Sie Ihre Sprache aus
+Scegli la lingua
+Selecione seu idioma
+Wybierz język
+Zvolte jazyk
+言語を選択してください
+언어를 선택하세요
+Kies uw taal
+Выберите свой язык
+Zvoľte jazyk
+เลือกภาษาของท่าน
+选择你的语言
+選擇您的語言
+Français
+EspañolDeutsch
+Italiano
+Português  
+do Brasil
+Nederlands
+Русский
+PolskiČeština
+Slovensky
+ภาษาไทย
+日本語한국어
+简体中文
+繁體中文
+IDEXX SmartQC* Control
+
+Manufactured for
+IDEXX Laboratories, Inc.
+One IDEXX Drive
+Westbrook, Maine 04092 USA
+idexx.com
+© 2022 IDEXX Laboratories, Inc. All rights reserved. • 06-0014986-01 
+*IDEXX SmartQC, ProCyte One, and IDEXX VetLab are trademarks or registered trademarks of IDEXX Laboratories, Inc. or its  
+affiliates in the United States and/or other countries. 
+Intended use and summary
+IDEXX SmartQC* Control is designed for the automated quality control analysis and statistical processing of the  
+ProCyte One* Hematology Analyzer. This product is intended for veterinary use only.
+Formulation
+IDEXX SmartQC Control consists of synthetic polymer beads with optical properties that simulate blood cells. The control 
+consists of beads of two different sizes and a dye to simulate hemoglobin.
+Storage and stability
+•   Smart QC Control vials should be stored at room temperature (15°C–35°C [59°F–95°F]) to ensure product stability. 
+•   When properly stored, unused IDEXX SmartQC Control vials are stable until the expiration date on vial. 
+•   IDEXX SmartQC Control is stable for 180 days after it is installed in the analyzer.
+ Precautions and warnings
+•   H317
+•   P231 / P272 / P280 / P302+P350 / P333+P313 / P363
+•   May cause an allergic skin reaction.
+•   Avoid opening the cap so that you do not breathe any mist/vapors.
+•   Wear protective gloves when using IDEXX SmartQC Control.
+•   If contact with skin occurs, wash affected area with soap and water. 
+•   Wash contaminated clothing before reuse.
+Disposal
+Dispose of IDEXX SmartQC vials in accordance with your local/regional/national/international regulations. 
+Instructions for use
+1. When prompted, tap Replace IDEXX SmartQC. 
+2. Open the sample drawer and remove the existing vial.
+3.   Shake a new IDEXX SmartQC vial vigorously for 10 seconds to ensure it is well mixed and then load it into the sample drawer. 
+4. Close the sample drawer. The analyzer automatically enters the QC lot information from the barcode on the vial label into 
+the IDEXX VetLab* Station.
+Indication of product deterioration
+•   Using the material without sufficient mixing can result in bead agglutination, potentially impacting the accuracy of the results.
+•   When the vial is opened, there is a potential for fluid evaporation from the vial, which can lead to incorrect count statistics.
+Limitations
+•   IDEXX SmartQC Control is for use on the ProCyte One Hematology Analyzer.
+•   IDEXX SmartQC Control is to be used as supplied; dilution invalidates intended use.
+IDEXX SmartQC* Control
+IDEXX Europe B.V.
+P.O. Box 1334,  
+2130 EK Hoofddorp
+The Netherlands
+idexx.eu
+
+Fabriqué pour
+IDEXX Laboratories, Inc.
+One IDEXX Drive
+Westbrook, Maine 04092 USA
+idexx.com
+© 2022 IDEXX Laboratories, Inc. Tous droits réservés. • 06-0014986-01 
+*IDEXX SmartQC, ProCyte One et IDEXX VetLab sont des marques commerciales ou des marques déposées de IDEXX Laboratories, Inc. 
+ou de ses filiales aux États-Unis et/ou dans d’autres pays. 
+Utilisation prévue et synthèse
+IDEXX SmartQC* Control est conçu pour l’analyse automatisée de contrôle qualité et le traitement statistique de l’analyseur 
+d’hématologie ProCyte One*. Ce produit est conçu exclusivement à des fins vétérinaires.
+Formulation
+IDEXX SmartQC Control contient des perles en polymère synthétique dotées de propriétés optiques qui permettent de 
+simuler les cellules sanguines. Il renferme des perles de deux tailles différentes et du colorant pour simuler l’hémoglobine.
+Stockage et stabilité
+•   Les flacons SmartQC Control devraient être conservés à température ambiante (15 °C–35 °C [59 °F–95 °F]) pour garantir la 
+stabilité du produit. 
+•   Lorsqu’ils sont conservés comme il se doit, les flacons IDEXX SmartQC  Control  inutilisés restent stables jusqu’à leur date 
+d’expiration. 
+•   IDEXX SmartQC Control est stable pendant 180 jours suivant son installation dans l’analyseur. 
+ Précautions et avertissements
+•   H317
+•   P231 / P272 / P280 / P302+P350 / P333+P313 / P363
+•   Peut causer une réaction allergique cutanée.
+•   Éviter d’ouvrir le bouchon pour ne pas respirer des vapeurs.
+•   Porter des gants de protection lors de l’utilisation du IDEXX SmartQC Control.
+•   En cas de contact avec la peau, laver la zone touchée avec du savon et de l’eau. 
+•   Laver les vêtements contaminés avant de les réutiliser.
+Elimination
+Jetez les flacons IDEXX SmartQC dans le respect de vos réglementations locales/régionales/nationales/internationales. 
+Mode d’emploi
+1.  Lorsque le système le demande, appuyer sur Remplacer IDEXX SmartQC. 
+2. Ouvrir le tiroir d’échantillons et retirer le flacon existant.
+3.   Mélanger vigoureusement un nouveau flacon IDEXX SmartQC pendant 10 secondes pour garantir que le contenu est bien 
+mélangé, puis le placer dans le tiroir d’échantillons. 
+4. Fermer le tiroir d’échantillons. L’analyseur introduit automatiquement les informations du lot QC qui figurent sur le code-
+barres du flacon dans la station IDEXX VetLab* Station.
+Indication de la détérioration du produit
+•   L’utilisation de la solution sans l’avoir suffisamment mélangée peut entraîner une agglutination des perles, ce qui pourrait 
+avoir un impact sur la précision des résultats.
+•   Lorsque le flacon est ouvert, il existe un risque d’évaporation de fluide du flacon, ce qui peut entraîner des données de 
+comptage incorrectes.
+Limitations
+•   IDEXX SmartQC Control est conçu pour être utilisé sur l’analyseur d’hématologie ProCyte One.
+•   IDEXX SmartQC Control doit être utilisé tel qu’il a été fourni ; sa dilution invalide son usage prévu.
+IDEXX SmartQC* Control
+IDEXX Europe B.V.
+P.O. Box 1334,  
+2130 EK Hoofddorp
+Les Pays-Bas
+idexx.eu
+
+Fabricado por
+IDEXX Laboratories, Inc.
+One IDEXX Drive
+Westbrook, Maine 04092 EE. UU
+idexx.com
+© 2022 IDEXX Laboratories, Inc. Todos los derechos reservados. • 06-0014986-01 
+*IDEXX SmartQC, ProCyte One, e IDEXX VetLab son marcas comerciales o marcas comerciales registradas de IDEXX Laboratories, Inc. o 
+de sus filiales en los Estados Unidos o en otros países. 
+Uso previsto y resumen
+IDEXX SmartQC* Control está diseñado para el análisis automático con fines de control de calidad y el procesamiento 
+estadístico del Analizador Hematológico ProCyte One *. Este producto está destinado exclusivamente a uso veterinario.
+Formulación
+IDEXX SmartQC Control consta de esferas de polímero sintéticas con propiedades ópticas que simulan las células 
+sanguíneas. El control consta de esferas de dos tamaños distintos y de un colorante que simula la hemoglobina.
+Conservación y estabilidad
+•   Los viales de SmartQC Control deben conservarse a temperatura ambiente (15 °C–35 °C [59 °F–95 °F]) para garantizar la 
+estabilidad del producto. 
+•   En condiciones de conservación adecuadas, los viales no usados de IDEXX SmartQC Control son estables hasta la fecha 
+de caducidad que se indica en el vial. 
+•   IDEXX SmartQC Control permanece estable durante 180 días una vez instalado en el analizador.
+ Precauciones y advertencias
+•   H317
+•   P231 / P272 / P280 / P302+P350 / P333+P313 / P363
+•   Puede causar una reacción cutánea de tipo alérgico.
+•   No abra el tapón para evitar inhalar ningún tipo de vapor.
+•   Lleve guantes protectores al manipular IDEXX SmartQC Control.
+•   Si entra en contacto con la piel, lave la zona afectada con agua y jabón. 
+•   Lave la ropa contaminada antes de volver a utilizarla.
+Eliminación
+Deseche los viales de IDEXX SmartQC en conformidad con las normativas locales, regionales, nacionales e internacionales. 
+Instrucciones de uso
+1. Cuando se le indique, pulse Sustituir IDEXX SmartQC. 
+2. Abra la bandeja de muestras y retire el vial existente.
+3.   Agite un nuevo vial de IDEXX SmartQC enérgicamente durante 10 segundos para asegurarse de que se mezcle bien y,  
+a continuación, cárguelo en la bandeja de muestras. 
+4. Cierre la bandeja de muestras. El analizador introduce automáticamente la información del lote para el control de calidad desde 
+el código de barras situado en la etiqueta a la IDEXX VetLab* Station.
+Indicios de deterioro del producto
+•   Puede que se produzca una aglutinación de esferas si utiliza el material sin haberlo mezclado lo suficiente, lo cual puede 
+afectar a la precisión de los resultados.
+•   Una vez abierto el vial, puede que el líquido del vial se evapore, lo cual puede dar lugar a recuentos estadísticos incorrectos.
+Limitaciones
+•   IDEXX SmartQC Control se debe utilizar con el Analizador Hematológico ProCyte One.
+•   IDEXX SmartQC Control se debe utilizar tal como se suministra; su dilución invalida el uso previsto.
+IDEXX SmartQC* Control
+IDEXX Europe B.V.
+P.O. Box 1334,  
+2130 EK Hoofddorp
+Países Bajos
+idexx.eu
+
+Hergestellt für
+IDEXX Laboratories, Inc.
+One IDEXX Drive
+Westbrook, Maine 04092 USA
+idexx.com
+© 2022 IDEXX Laboratories, Inc. Alle Rechte vorbehalten. • 06-0014986-01 
+*IDEXX SmartQC, ProCyte One und IDEXX VetLab sind Markenzeichen bzw. eingetragene Markenzeichen von IDEXX Laboratories, Inc. oder  
+der entsprechenden Partnergesellschaften in den Vereinigten Staaten und/oder anderen Ländern. 
+Vorgesehene Verwendung und Zusammenfassung
+IDEXX SmartQC* Control wurde für die automatische Qualitätskontrollanalyse und statistische Verarbeitung unter 
+Verwendung mit dem ProCyte One* Hämatologie-Analysegerät entwickelt. Dieses Produkt ist ausschließlich für den Einsatz 
+in der Veterinärmedizin vorgesehen.
+Formulierung
+IDEXX SmartQC Control besteht aus synthetischen Polymerkügelchen mit optischen Eigenschaften, die Blutzellen 
+simulieren. Die Kontrollsubstanz besteht aus Kügelchen zweier verschiedener Größen und einem Farbstoff, der Hämoglobin 
+simuliert.
+Lagerfähigkeit und Stabilität
+•   SmartQC Control-Fläschchen sollten bei Zimmertemperatur (15 °C–35 °C [59 °F–95 °F]) aufbewahrt werden, um die 
+Produktstabilität zu gewährleisten. 
+•   Bei ordnungsgemäßer Lagerung sind nicht verwendete IDEXX SmartQC  Control-Fläschchen bis zum auf dem Fläschchen 
+angegebenen Ablaufdatum stabil. 
+•   IDEXX SmartQC Control ist für 180 Tage nach dem Einbringen in das Analysegerät stabil.
+ Vorsichtsmaßnahmen und Warnungen
+•   H317
+•   P231/P272/P280/P302+P350/P333+P313/P363
+•   Kann unter Umständen allergische Hautreaktionen verursachen.
+•   Vermeiden Sie es, die Kappe zu öffnen, damit Sie keine Dämpfe/Gase einatmen.
+•   Tragen Sie bei der Handhabung von IDEXX SmartQC Control stets Handschuhe.
+•   Waschen Sie bei Hautkontakt den betroffenen Bereich mit Seife und Wasser. 
+•   Waschen Sie kontaminierte Bekleidungsstücke, bevor Sie sie erneut tragen.
+Entsorgung
+Entsorgen Sie die IDEXX SmartQC -Fläschchen gemäß der lokal/regional/national/international geltenden Vorschriften. 
+Verwendungshinweise
+1. Wenn Sie dazu aufgefordert werden, tippen Sie auf IDEXX SmartQC ersetzen. 
+2. Öffnen Sie das Probenfach und entnehmen Sie das darin befindliche Fläschchen.
+3.   Schütteln Sie das neue IDEXX SmartQC -Fläschchen 10 Sekunden lang kräftig, um sicherzustellen, dass der Inhalt gut 
+gemischt ist, und geben Sie das Fläschchen in das Probenfach. 
+4. Schließen Sie das Probenfach. Das Analysegerät liest die Informationen zur QC-Charge automatisch vom Barcode auf 
+dem Fläschchenetikett ab und kopiert sie in die IDEXX VetLab* Station.
+Anzeichen von Produktschäden
+•   Eine Verwendung des Materials ohne ausreichendes Durchmischen kann zu einer Agglutination der Kügelchen führen, 
+wodurch möglicherweise die Genauigkeit der Ergebnisse beeinträchtigt werden können.
+•   Beim Öffnen des Fläschchens besteht die Möglichkeit, dass Fluide aus dem Fläschchen austreten, was zu ungenauen 
+Zählstatistiken führen kann.
+Einschränkungen
+•   IDEXX SmartQC Control ist ausschließlich zur Verwendung mit dem ProCyte One Hämatologie-Analysegerät ausgelegt.
+•   IDEXX SmartQC Control darf nur wie geliefert verwendet werden; wird das Produkt verdünnt, kann es nicht mehr für den 
+vorgesehenen Zweck verwendet werden.
+IDEXX SmartQC* Control
+IDEXX Europe B.V.
+P.O. Box 1334,  
+2130 EK Hoofddorp
+Niederlande
+idexx.eu
+
+Prodotto da
+IDEXX Laboratories, Inc.
+One IDEXX Drive
+Westbrook, Maine 04092 USA
+idexx.com
+© 2022 IDEXX Laboratories, Inc. Tutti i diritti riservati. • 06-0014986-01  
+*IDEXX SmartQC, ProCyte One e IDEXX VetLab sono marchi registrati di IDEXX Laboratories, Inc.  
+o delle sue affiliate negli Stati Uniti e/o in altri paesi.
+Uso previsto e riepilogo
+IDEXX SmartQC* Control è progettato per l’analisi automatizzata del controllo qualità e l’elaborazione statistica dell’analizzatore 
+ematologico ProCyte One*. Questo prodotto è destinato esclusivamente ad uso veterinario.
+Composizione
+IDEXX SmartQC Control consiste in biglie di polimero sintetico con proprietà ottiche che simulano le cellule del sangue. 
+Il controllo consiste in biglie di due diverse dimensioni e di un colorante per simulare l’emoglobina.
+Conservazione e stabilità
+•   I flaconi SmartQC Control devono essere conservati a temperatura ambiente (15°C-35°C) per garantire la stabilità del prodotto.
+•   Se conservati correttamente, i flaconi IDEXX SmartQC Control non utilizzati sono stabili fino alla data di scadenza sul flacone.
+•   IDEXX SmartQC Control è stabile per 180 giorni dopo la sua installazione nell’analizzatore.
+ Precauzioni e avvertenze
+•   H317
+•   P231 / P272 / P280 / P302+P350 / P333+P313 / P363
+•   Può causare una reazione allergica della pelle.
+•   Evitare di aprire il tappo per non respirare Condensa/vapori.
+•   Indossare i guanti protettivi durante l’utilizzo di IDEXX SmartQC Control.
+•   In caso di contatto con la pelle, lavare la zona interessata con acqua e sapone. 
+•   Lavare i vestiti contaminati prima del riutilizzo.
+Smaltimento
+Smaltire i flaconi IDEXX SmartQC in conformità con le normative locali/regionali/nazionali/internazionali.
+Istruzioni per l’uso
+1. Se richiesto, Selezionare Sostituire IDEXX SmartQC.
+2. Aprire il comparto campione e rimuovere il flacone inserito precedentemente.
+3.   Scuotere vigorosamente il nuovo flacone IDEXX SmartQC per 10 secondi per assicurarsi che sia ben mescolato e poi 
+caricarlo nel comparto campione.
+4. Chiudere il comparto campione. L’analizzatore inserisce automaticamente le informazioni del lotto QC tramite il codice 
+a barre sull’etichetta del flacone nell’IDEXX VetLab* Station.
+Indicazioni per il deterioramento del prodotto
+•   L’utilizzo del materiale senza una sufficiente miscelazione può provocare l’agglutinazione delle Biglie con un potenziale 
+impatto sulla precisione dei risultati.
+•   Quando si apre un flacone, è possibile che evapori del liquido e questo potrebbe portare a statistiche di conteggio errate.
+Limitazioni
+•   IDEXX SmartQC Control è da utilizzare sull’analizzatore ematologico ProCyte One.
+•   IDEXX SmartQC Control deve essere utilizzato come fornito; la diluizione invalida l’uso previsto.
+IDEXX SmartQC* Control
+IDEXX Europe B.V.
+Casella Postale 1334,  
+2130 EK Hoofddorp
+Paesi Bassi
+idexx.eu
+
+Fabricado para
+IDEXX Laboratories, Inc.
+One IDEXX Drive
+Westbrook, Maine 04092 EUA
+idexx.com
+© 2022 IDEXX Laboratories, Inc. Todos os direitos reservados. • 06-0014986-01  
+*IDEXX SmartQC, ProCyte One e IDEXX VetLab são marcas comerciais e marcas registradas de IDEXX Laboratories, Inc.  
+ou suas afiliadas nos Estados Unidos e/ou outros países.  
+Uso pretendido e resumo
+O Controle IDEXX SmartQC* foi desenvolvido para o processamento estatístico e a análise do controle de qualidade 
+automatizado do analisador hematológico ProCyte One*. Este produto é apenas para uso veterinário.
+Composição
+O Controle IDEXX SmartQC consiste em grânulos de polímero sintético com propriedades óticas que simulam as células 
+do sangue. O controle consiste em grânulos de dois tamanhos diferentes e um corante para simular a hemoglobina.
+Armazenamento e estabilidade
+•   Os frascos do Controle Smart QC devem ser armazenados à temperatura ambiente (15°C–35°C [59°F–95°F]) para 
+garantir a estabilidade do produto. 
+•   Quando armazenados corretamente, os frascos do Controle IDEXX SmartQC permanecem estáveis até a data de 
+validade no frasco. 
+•   O Controle IDEXX SmartQC permanece estável por 180 dias após instalação no analisador.
+ Precauções e advertências
+•   H317
+•   P231 / P272 / P280 / P302+P350 / P333+P313 / P363
+•   Pode causar uma reação alérgica na pele.
+•   Evite abrir a tampa para não respirar gases/vapores.
+•   Use luvas de proteção ao utilizar o Controle IDEXX SmartQC.
+•   Se ocorrer o contato com a pele, lave a área afetada com sabão e água.
+•   Lave as roupas contaminadas antes de usá-las novamente.
+Descarte
+Descarte os frascos do IDEXX SmartQC de acordo com as regulamentações locais/regionais/nacionais/internacionais. 
+Instruções de uso
+1. Quando solicitado, toque em Substituir IDEXX SmartQC. 
+2. Abra a gaveta de amostras e remova o frasco existente.
+3.   Sacuda o novo frasco do IDEXX SmartQC vigorosamente por 10 segundos para garantir que esteja bem misturado 
+e então coloque-o na gaveta de amostras. 
+4. Feche a gaveta de amostras. O analisador insere automaticamente as informações de lote do QC presentes no código 
+de barras do rótulo do frasco na estação do IDEXX VetLab*.
+Indicação de deterioração do produto
+•   Caso o material seja utilizado sem ser misturado o suficiente, pode ocorrer aglutinação dos grânulos e isso pode afetar 
+a precisão dos resultados.
+•   Quando o frasco é aberto, ocorre uma possível evaporação de fluidos do frasco, o que pode levar a uma estatística 
+de contagem incorreta.
+Limitações
+•   O Controle IDEXX SmartQC serve para ser usado com o analisador hematológico ProCyte One.
+•   O Controle IDEXX SmartQC deve ser utilizado da forma como é disponibilizado; sua diluição invalida o uso pretendido.
+Controle IDEXX SmartQC* 
+IDEXX Europe B.V.
+P.O. Box 1334,  
+2130 EK Hoofddorp
+Países Baixos
+idexx.eu
+
+Wyprodukowano dla
+IDEXX Laboratories, Inc.
+One IDEXX Drive
+Westbrook, Maine 04092 USA
+idexx.com
+© 2022 IDEXX Laboratories, Inc. Wszystkie prawa zastrzeżone. • 06-0014986-01  
+*IDEXX SmartQC, ProCyte One i IDEXX VetLab są znakami handlowymi lub zarejestrowanymi znakami handlowymi IDEXX Laboratories, Inc. 
+lub jej podmiotów powiązanych w Stanach Zjednoczonych i/lub innych krajach.
+Przeznaczenie i podsumowanie
+Kontrola IDEXX SmartQC* służy do przeprowadzenia automatycznej kontroli jakości i statystycznej analizy analizatora hematologicznego 
+ProCyte One* Hematology Analyzer. Produkt przeznaczony jest wyłącznie do stosowania weterynaryjnego.
+Skład
+Kontrola IDEXX SmartQC składa się z syntetycznych kuleczek polimerowych o właściwościach optycznych, które symulują komórki krwi. 
+W skład kontroli, która ma przypominać hemoglobinę, wchodzą kuleczki w różnych rozmiarach oraz barwnik.
+Przechowywanie i stabilność
+• Fiolki zawierające kontrolę Smart QC powinny być przechowywane w temperaturze pokojowej (15°C–35°C [59°F–95°F]), aby zapewnić 
+stabilność produktu. 
+• Prawidłowo przechowywane, nieużywane fiolki kontroli IDEXX SmartQC zachowują stabilność do czasu upływu daty ważności 
+podanej na fiolce.
+• Kontrola IDEXX SmartQC zachowuje stabilność przez 180 dni po zainstalowaniu w analizatorze.
+ Środki ostrożności i ostrzeżenia
+• H 317
+• P231 / P272 / P280 / P302+P350 / P333+P313 / P363
+• Może powodować reakcję alergiczną skóry.
+• Unikać otwierania zatyczki, aby nie wdychać zawiesiny/oparów.
+• Nosić rękawice ochronne podczas korzystania z kontroli IDEXX SmartQC.
+• W przypadku kontaktu ze skórą: umyć zanieczyszczoną powierzchnię mydłem i wodą. 
+• Wyprać zanieczyszczoną odzież przed ponownym użyciem.
+Utylizacja
+Zutylizować fiolki IDEXX SmartQC zgodnie z obowiązującymi przepisami lokalnymi/regionalnymi/krajowymi/międzynarodowymi.
+Instrukcja użycia
+1. Po wyświetleniu komunikatu nacisnąć komendę Wymień IDEXX SmartQC. 
+2. Otworzyć szufladę na próbki i wyciągnąć fiolkę, która tam jest.
+3. Energicznie potrząsać nową fiolką IDEXX SmartQC przez 10 sekund, aby jej składniki się dobrze wymieszały, a następnie włożyć 
+ją do szuflady na próbki.  
+4. Zamknąć szufladę. Analizator automatycznie wprowadzi do stacji IDEXX VetLab* Station informacje na temat partii kontroli jakości 
+z kodu kreskowego znajdującego się na etykiecie fiolki.
+Oznaki obniżenia jakości produktu
+• Niedostateczne wymieszanie materiału przed użyciem może spowodować aglutynację kuleczek, co może wpłynąć na dokładność 
+wyników.
+• Po otwarciu fiolki płyn może z niej wyparować, co może prowadzić do nieprawidłowych wyników morfologii krwi.
+Ograniczenia
+• Kontrola IDEXX SmartQC jest przeznaczona do stosowania w analizatorze ProCyte One Hematology Analyzer.
+• Kontrola IDEXX SmartQC powinna być stosowana w postaci, w jakiej została dostarczona. Po rozcieńczeniu kontrola przestaje się 
+nadawać do użytku zgodnego z przeznaczeniem.
+Kontrola IDEXX SmartQC*
+IDEXX Europe B.V.
+P.O. Box 1334,  
+2130 EK Hoofddorp
+Holandia
+idexx.eu
+
+Vyrobeno pro
+IDEXX Laboratories, Inc.
+One IDEXX Drive
+Westbrook, Maine 04092 USA
+idexx.com
+© 2022 IDEXX Laboratories, Inc. Všechna práva vyhrazena. • 06-0014986-01  
+*IDEXX SmartQC, ProCyte One a IDEXX VetLab jsou ochranné známky nebo registrované ochranné známky společnosti IDEXX Laboratories, Inc. 
+nebo jejích poboček ve Spojených státech anebo jiných zemích.
+Určené použití a souhrn
+IDEXX SmartQC* Control je navržena pro automatickou kontrolu kvality analýzy a statistické zpracování procesů v hematologickém 
+analyzátoru ProCyte One*. Tento výrobek je určen pouze pro veterinární použití.
+Složení
+IDEXX SmartQC Control obsahuje kuličky ze syntetického polymeru s optickými vlastnostmi, které simulují krevní buňky. Kontrola kvality 
+obsahuje kuličky dvou různých velikostí a barvivo k simulaci hemoglobinu.
+Uchovávání a stabilita
+• Lahvičky SmartQC Control je třeba uchovávat při pokojové teplotě (15–35 °C), aby byla zajištěna stabilita výrobku.
+• Při správném uchovávání jsou nepoužité lahvičky IDEXX SmartQC Control stabilní až do konce expirační doby uvedené na lahvičce.
+• Po instalaci do přístroje je IDEXX SmartQC stabilní po dobu 180 dní.
+ Zvláštní opatření a upozornění
+• H 317
+• P231 / P272 / P280 / P302+P350 / P333+P313 / P363
+• Může vyvolat alergickou kožní reakci.
+• Neotvírejte víčko, abyste se nenadýchali výparů.
+• Při používání IDEXX SmartQC Control noste ochranné rukavice.
+• Při kontaktu s pokožkou umyjte postižené místo vodou a mýdlem. 
+• Kontaminovaný oděv před opakovaným použitím vyperte.
+Likvidace
+Lahvičky IDEXX SmartQC zlikvidujte v souladu s místními/oblastními/celostátními/mezinárodními předpisy. 
+Návod k použití
+1. Po zobrazení výzvy klikněte na vyměnit IDEXX SmartQC.
+2. Otevřete zásuvku na vzorky a vyjměte stávající lahvičku.
+3. Novou lahvičku IDEXX SmartQC důkladně po dobu 10 sekund protřepávejte, abyste ji řádně promíchali, a poté ji vložte do zásuvky 
+na vzorky.
+4. Zavřete zásuvku na vzorky. Z čárového kódu na štítku lahvičky analyzátor autamaticky zapíše informaci o QC šarži do IDEXX VetLab* 
+stanice.
+Známky poškození výrobku
+• Použití materiálu bez dostatečného promíchání může vést ke slepení kuliček, což může ovlivnit přesnost výsledků.
+• Pokud se lahvička otevře, může dojít k odpaření tekutiny z lahvičky, což může vést k nesprávnému statistickému výpočtu.
+Omezení
+• IDEXX SmartQC Control je určena pro použití v hematologickém analyzátoru ProCyte One.
+• IDEXX SmartQC Control je určena k použití tak, jak je dodávána. Její ředění znemožní zamýšlené použití.
+IDEXX SmartQC* Control
+IDEXX Europe B.V.
+P.O. Box 1334,  
+2130 EK Hoofddorp
+Holandsko
+idexx.eu
+
+製造
+IDEXX Laboratories, Inc.
+One IDEXX Drive
+Westbrook, Maine 04092 USA
+idexx.com
+© 2022 IDEXX Laboratories, Inc. All rights reserved. • 06-0014986-01  
+*IDEXX SmartQC、ProCyte One、IDEXX VetLab は、米国およびその他の国における IDEXX Laboratories, Inc. 
+またはその関連会社の商標または商標登録です。
+使用目的および概要
+IDEXX SmartQC* コントロールは、IDEXX プロサイトOne 血液検査器の自動品質管理分析および統計処理用に設計されてい
+ます。 本製品は獣医師の使用のみを目的としています。
+構成
+IDEXX SmartQC コントロールは、光学特性を持つ合成ポリマービーズで構成されており、血液細胞のシミュレーションを行い
+ます。 ヘモグロビンをシミュレーションするために、2 つの異なるサイズのビーズと染料から構成されています。
+保管および安定性
+•   Smart QC コントロール バイアルは、製品の安定性を確保するために、室温 (15°C～35°C) で保管してください。 
+• 適切に保管された未使用の IDEXX SmartQC コントロール バイアルは、バイアルに記載されている使用期限まで安定してい
+ます。 
+•   IDEXX SmartQC コントロールは、検査器にセットしてから 180 日間は安定しています。
+ 使用上の注意および警告
+•  H317
+•   P231 / P272 / P280 / P302+P350 / P333+P313 / P363
+• アレルギー性皮膚反応を引き起こすおそれがあります。
+• ミストや蒸気の吸い込みを防ぐために、キャップは開けないでください。
+•   IDEXX SmartQC コントロールを使用する際は保護手袋を着用してください。
+• 皮膚に接触した場合は石けんと水で洗ってください。
+• 汚染した衣類を再使用する場合は洗濯をしてください。
+廃棄
+IDEXX SmartQC バイアルは、地域/国/国際規制に従って廃棄してください。 
+使用方法
+1. プロンプトが表示されたら、[IDEXX SmartQC の交換] をタップします。 
+2. 検体用の引き出しを開け、中に入っているバイアルを取り出します。
+3. 新しい IDEXX SmartQC バイアルを 10 秒間強く振り、十分に混合していることを確認した上で検体用の引き出しに入れます。 
+4. 検体用の引き出しを閉めます。 バイアル のラベ ル上のバーコードから、ロットの 品 質 管 理 情 報 が IDEXX VetLab* ステーショ
+ンに自動的に入力されます。
+製品の劣化の兆候
+• 十分に混合せずに使用すると、ビーズが凝縮し、結果の精度に影響を与える可能性があります。
+• バイアルを開けると、バイアル内の液体が蒸発する可能性があり、計数統計が不正確となるおそれがあります。
+制限事項
+•   IDEXX SmartQC コントロールは、IDEXX プロサイトOne 血液検査器で使用するためのものです。
+•   IDEXX SmartQC コントロールは、提供された形態で使用するものであり、希釈すると意図された効果が得られなくなります。
+IDEXX SmartQC* コントロール
+IDEXX Europe B.V.
+P.O. Box 1334,  
+2130 EK Hoofddorp
+The Netherlands
+idexx.eu
+
+제조 발주처
+IDEXX Laboratories, Inc.
+One IDEXX Drive
+Westbrook, Maine 04092 USA
+idexx.com
+© 2022 IDEXX Laboratories, Inc. 판권 소유. • 06-0014986-01  
+*IDEXX SmartQC, ProCyte One 및 IDEXX VetLab은 미국 및 / 또는 기타 국가에서 IDEXX Laboratories, Inc. 
+또는 그 계열사의 상표 또는 등록 상표입니다.
+용도 및 요약
+IDEXX SmartQC* 정도관리는 ProCyte One* 혈액학 분석기의 자동화된 정도 관리 분석 및 통계 처리를 위해 설계되었습니다. 이 
+제품은 수의학 용도로만 사용됩니다.
+제제
+IDEXX SmartQC 정도관리는 혈액 세포를 시뮬레이션하는 광학적 특성을 가진 합성 폴리머 비드로 구성됩니다. 정도관리는 두 가지 
+크기의 비드와 헤모글로빈을 시뮬레이션하기 위한 염료로 구성됩니다.
+보관 및 안정성
+• SmartQC 정도관리 물질은 제품 안정성을 보장하기 위해 실온(15°C–35°C[59°F–95°F])에서 보관해야 합니다. 
+• 적절하게 보관한다면, 사용하지 않은 IDEXX SmartQC 정도관리 물질은 유효기간까지 안정적입니다. 
+•   IDEXX SmartQC 정도관리는 분석기에 설치된 후 180일 동안 안정적입니다.
+ 주의 사항 및 경고
+•  H317
+•   P231 / P272 / P280 / P302+P350 / P333+P313 / P363
+• 알레르기성 피부 반응을 일으킬 수 있습니다.
+• 미스트/증기를 흡입하지 않도록 뚜껑을 열지 마십시오.
+•   IDEXX SmartQC 정도관리를 사용할 때는 보호 장갑을 착용하십시오.
+• 피부에 닿으면 해당 부위를 비누와 물로 씻으십시오. 
+• 재사용 전에 오염된 의복을 세탁하십시오.
+폐기
+현지/지역/국가/국제 규정에 따라 IDEXX SmartQC 물질을 폐기하십시오. 
+사용 지침
+1. 메시지가 표시되면, IDEXX SmartQC 교체를 누릅니다. 
+2. 검체 서랍을 열고 기존 물질을 제거합니다.
+3. 새 IDEXX SmartQC 물질을 10초 동안 세게 흔들어 잘 섞여 있는지 확인한 다음 검체 서랍에 넣습니다. 
+4. 검체 서랍을 닫습니다. 분석기는 IDEXX VetLab* Station에 시약병 라벨 바코드의 QC 로트 정보를 자동으로 입력합니다.
+제품 손상의 표시
+• 충분한 혼합 없이 사용하면 비드가 응집되어 결과의 정확성에 영향을 미칠 수 있습니다.
+• 시약병이 열리면, 시약 일부가 증발할 수 있으며 이는 부정확한 결과를 초래할 수 있습니다.
+사용의 제한
+•   IDEXX SmartQC 정도관리는 ProCyte One 혈액 분석기에서 사용하기 위한 것입니다.
+•   IDEXX SmartQC 정도관리는 제공된 대로 사용합니다. 희석사용은 유효하지 않습니다.
+IDEXX SmartQC* 정도관리
+IDEXX Europe B.V.
+P.O. Box 1334,  
+2130 EK Hoofddorp
+The Netherlands
+idexx.eu
+
+Gefabriceerd voor
+IDEXX Laboratories, Inc.
+One IDEXX Drive
+Westbrook, Maine 04092 V.S.
+idexx.com
+© 2022 IDEXX Laboratories, Inc. Alle rechten voorbehouden. • 06-0014986-01  
+*IDEXX SmartQC, ProCyte One en IDEXX VetLab zijn handelsmerken of geregistreerde handelsmerken van IDEXX Laboratories, Inc. of 
+haar dochterondernemingen in de Verenigde Staten en/of andere landen.
+Gebruik en samenvatting
+IDEXX SmartQC* Control is ontworpen voor de geautomatiseerde kwaliteitscontrole van de ProCyte One*-hematologie-
+analyzer. Dit product is uitsluitend bedoeld voor gebruik in de diergeneeskunde.
+Formulering
+IDEXX SmartQC Control bestaat uit synthetische polymeerkorrels die optisch gelijk zijn aan bloedcellen. De controle bestaat 
+uit korrels van twee verschillende grootten en een kleurstof om hemoglobine te simuleren.
+Opslag en stabiliteit
+•   SmartQC Control-flacons moeten op kamertemperatuur (15 °C – 35 °C [59 °F – 95 °F]) worden bewaard om de stabiliteit 
+van het product te garanderen. 
+•   Wanneer ze op de juiste manier worden bewaard, blijven ongebruikte IDEXX SmartQC Control-flacons stabiel tot de 
+vervaldatum op de flacon.
+•   IDEXX SmartQC Control is na plaatsing in de analyzer nog 180 dagen stabiel.
+ Voorzorgsmaatregelen en waarschuwingen
+•   H317
+•   P231 / P272 / P280 / P302+P350 / P333+P313 / P363
+•   Kan een allergische huidreactie veroorzaken.
+•   Draai de dop niet open om het inademen van dampen te vermijden.
+•   Draag beschermende handschoenen bij gebruik van IDEXX SmartQC Control.
+•   Mocht uw huid in aanraking komen met de vloeistof, was dan het getroffen gedeelte goed met water en zeep. 
+•   Was besmette kleding altijd voordat u die weer gaat gebruiken.
+Afvalverwerking
+Gooi IDEXX SmartQC-flacons overeenkomstig de lokale/regionale/nationale/internationale regelgeving weg. 
+Gebruiksaanwijzing
+1. Tik desgevraagd op IDEXX SmartQC vervangen.
+2. Open de monsterlade en verwijder de huidige flacon.
+3.   Schud een nieuwe IDEXX SmartQC-flacon gedurende 10 seconden krachtig om er zeker van te zijn dat deze goed 
+gemengd is en plaats de flacon vervolgens in de monsterlade. 
+4. Sluit de monsterlade. De barcode-informatie van de QC-partij op het etiket van de flacon wordt automatisch door de 
+analyzer in het IDEXX VetLab*-station ingevoerd.
+Indicatie van de achteruitgang in kwaliteit van het product
+•   Als u het materiaal gebruikt zonder het eerst goed te mengen, kan dit leiden tot agglutinatie van de korrels waardoor de 
+resultaten mogelijk niet betrouwbaar zijn.
+•   Wanneer de flacon wordt geopend, kan vloeistof verdampen,dit zou kunnen leiden tot onjuiste tellingen.
+Beperkingen
+•   IDEXX SmartQC Control is bedoeld voor gebruik op de ProCyte One-hematologie-analyzer.
+•   IDEXX SmartWC Control dient te worden gebruikt zoals het geleverd wordt; verdunning ervan wordt niet ondersteund.
+IDEXX SmartQC* Control
+IDEXX Europe B.V.
+Postbus 1334,  
+2130 EK Hoofddorp
+Nederland
+idexx.eu
+
+Произведено для
+IDEXX Laboratories, Inc.
+One IDEXX Drive
+Westbrook, Maine 04092 USA (США)
+idexx.com
+© 2022 IDEXX Laboratories, Inc. Все права защищены. • 06-0014986-01  
+*IDEXX SmartQC, ProCyte One и IDEXX VetLab являются товарными знаками или зарегистрированными товарными знаками компании IDEXX 
+Laboratories, Inc. или ее аффилированных лиц в США и/или других странах.
+Назначение и краткая информация
+IDEXX SmartQC* Control предназначен для автоматизированного контроля качества и статистической обработки данных, 
+полученных с помощью гематологического анализатора ProCyte One*. Этот продукт предназначен только для использования в 
+ветеринарии.
+Состав
+IDEXX SmartQC Control состоит из синтетических полимерных микрогранул с оптическими свойствами, которые имитируют 
+клетки крови. Контроль состоит из микрогранул двух разных размеров и красителя для иммитации гемоглобина.
+Хранение и устойчивость
+• Флаконы Smart QC Control следует хранить при комнатной температуре (15°C–35°C [59°F–95°F]) для обеспечения сохранности 
+продукта.
+• При правильном хранении неиспользуемые флаконы IDEXX SmartQC Control сохраняют свои свойства до истечения указанного 
+на них срока годности. 
+• IDEXX SmartQC Control годен в течение 180 дней после установки в анализатор.
+ Меры предосторожности 
+• H 317
+• P231 / P272 / P280 / P302+P350 / P333+P313 / P363
+• Может вызвать аллергическую реакцию на коже.
+• Избегайте вдыхания распыленных веществ/паров при открытии крышки.
+• Надевайте защитные перчатки при использовании IDEXX SmartQC Control.
+• В случае контакта с кожей промойте пораженный участок водой с мылом. 
+• Постирайте загрязненную одежду перед повторным использованием.
+Утилизация
+Утилизируйте флаконы с IDEXX SmartQC в соответствии с действующими местными/региональными/национальными/
+международными нормами. 
+Инструкции по использованию
+1. При появлении соответствующего сообщения нажмите «Заменить IDEXX SmartQC».
+2. Откройте лоток для образцов и извлеките имеющийся флакон.
+3. Энергично встряхните новый флакон IDEXX SmartQC в течение 10 секунд для тщательного перемешивания, а затем установите 
+его в лоток для образцов. 
+4. Закройте лоток для образцов. Анализатор автоматически вводит информацию о партии контроля качества посредством 
+штрих-кода на флаконе в станцию IDEXX VetLab*.
+Информация об ухудшении качества продукта
+• Использование материала без достаточного перемешивания может привести к склеиванию микрогранул, что может 
+потенциально отразиться на точности результатов.
+• После открытия флакона возникает возможность испарения жидкости из него, что может привести к неправильной статистике 
+подсчета.
+Ограничения
+• IDEXX SmartQC Control предназначен для использования на гематологическом анализаторе ProCyte One.
+• IDEXX SmartQC Control следует использовать в том виде, в котором он поставляется; разбавление приводит к невозможности 
+использования по назначению.
+IDEXX SmartQC* Control
+IDEXX Europe B.V.
+P.O. Box 1334,  
+2130 EK Hoofddorp
+The Netherlands (Нидерланды)
+idexx.eu
+
+Vyrobené pre
+IDEXX Laboratories, Inc.
+One IDEXX Drive
+Westbrook, Maine 04092 USA
+idexx.com
+© 2022 IDEXX Laboratories, Inc. Všetky práva vyhradené. • 06-0014986-01  
+*IDEXX SmartQC, ProCyte One a IDEXX VetLab sú ochranné známky alebo registrované ochranné známky spoločnosti IDEXX Laboratories, Inc. alebo 
+jej pobočiek v USA a/alebo iných krajinách.
+Účel použitia a súhrn
+IDEXX SmartQC* Control je určený na automatizovanú kontrolu kvality a štatistické spracovanie hematologického analyzátora ProCyte 
+One*. Tento výrobok je určený iba na veterinárne použitie.
+Zloženie
+IDEXX SmartQC Control sa skladá zo syntetických polymérových guľôčok s optickými vlastnosťami, ktoré simulujú krvinky. Kontrola 
+kvality sa skladá z guľôčok dvoch rôznych veľkostí a farbiva na simuláciu hemoglobínu.
+Skladovanie a stabilita
+• Ampulky so Smart QC Control by sa mali skladovať pri izbovej teplote (15 °C – 35 °C [59 °F – 95 °F]), aby sa zaistila stabilita výrobku.
+• Pri správnom uskladnení sú nepoužité ampulky s IDEXX SmartQC Control stabilné do dátumu exspirácie uvedeného na ampulke.
+• IDEXX SmartQC Control je stabilný po dobu 180 dní od inštalácie do analyzátora.
+ Bezpečnostné opatrenia a výstrahy
+• H 317.
+• P231/P272/P280/P302+P350/P333+P313/P363.
+• Môže spôsobiť alergickú reakciu pokožky.
+• Neotvárajte uzáver, aby ste nevdýchli hmlu vymazat/výpary.
+• Pri používaní IDEXX SmartQC Control majte nasadené ochranné rukavice.
+• V prípade styku s pokožkou umyte postihnuté miesto mydlom a vodou. 
+• Kontaminované oblečenie pred opätovným použitím vyperte.
+Likvidácia
+Ampulky s IDEXX SmartQC zlikvidujte v súlade s lokálnymi/regionálnymi/štátnymi/medzinárodnými predpismi. 
+Návod na použitie
+1. Po zobrazení výzvy kliknite na možnosť Nahradiť IDEXX SmartQC.
+2. Otvorte zásuvku na vzorky a odstráňte existujúcu ampulku.
+3. Novú ampulku s IDEXX SmartQC dôkladne pretrepávajte po dobu 10 sekúnd, aby sa zaistilo jej dobré premiešanie, a potom ju vložte 
+do zásuvky na vzorky.
+4. Zatvorte zásuvku na vzorky. Analyzátor automaticky zadá informácie o šarži QC z čiarového kódu na štítku na ampulke do vymazat 
+IDEXX VetLab* Station.
+Indikácia zhoršenia stavu výrobku
+• Použitie materiálu bez dostatočného premiešania môže viesť k stmeleniu guľôčok, čo môže mať vplyv na presnosť výsledkov.
+• Po otvorení ampulky sa z nej môže vyparovať kvapalina, čo môže viesť k nesprávnemu štatistickému výpočtu.
+Obmedzenia
+• IDEXX SmartQC Control je určený na použitie na hematologickom analyzátore ProCyte One.
+• Prípravok IDEXX SmartQC Control sa používa tak, ako je dodaný; riedením dôjde k zneplatneniu k znehodnoteniu na daný účel 
+použitia.
+IDEXX SmartQC* Control
+IDEXX Europe B.V.
+P.O. Box 1334,  
+2130 EK Hoofddorp
+Holandsko
+idexx.eu
+
+ผล ิตข ้�นเพื่ื�อ
+IDEXX Laboratories, Inc.
+One IDEXX Drive
+Westbrook, Maine 04092 
+สหรััฐอเมรัิกา
+idexx.com
+© 2022 IDEXX Laboratories, Inc. สงวนล  ิขส
+ิ
+ทธิ์ิ� • 06-0014986-01  
+*IDEXX SmartQC, ProCyte One, และ IDEXX VetLab เป็็นเครัื�องหมายการัค้าหรั ือเครัื�องหมายการัค้าจดทะเบีียนของ IDEXX Laboratories, Inc หรัือ
+บีรัิษัทในเครั   ือในสหรััฐอเมรัิกา และ/หรัือป็รัะเทศอื�นๆ
+วััตถุุประสงค์์การใช้
+้
+งานและสรุป
+IDEXX SmartQC* Control ได้รัับีการัออกแ  บีบี มาเพื่ ื�อกา รัว ิเครัาะ ห์การัคว บีค ุมคุณภา พื่อ ัตโน มัติและกา  รัป็รั ะมวลผลทางสถิิติของเค  รัื �อง
+วิเค รัาะ ห์โลหิต วิทยา ProCyte One ผลิตภ ัณฑ์์  นี �มีไว้ส
+ํา
+าหรัั  บีส
+ั
+ตวแพื่ทย ์ใช้
+้
+เท่านั �น
+องค์์ประกอบ
+IDEXX SmartQC Control ป็รัะกอ บีด ้วยเ ม็ดพื่อล ิเมอ รั์ส
+ั
+งเค รัาะ ห์ที �มีคุณสมบี  ัติจําาลอง  ลักษณะของเซลล์เม็ดเลือด กา  รัควบีค ุมป็รั ะกอ บีด ้วยเ ม็ด
+พื่อลิเมอ รั์สองขนาดและการัย ้อมส
+ี
+ย้อมที �แตกต  ่าง กันเพื่ ื�อจํา าลอง ลักษณะของฮี
+ี
+โมโกล  บีิน
+การจััดเ   ก็บและ  ค์วัาม ค์งทน
+•  คว รัเก ็บีขวด SmartQC Control ไว้ที �อุณห ภูมิห้อง (15 องศาเซลเซ
+ี
+ยส-35 องศาเซลเซ
+ี
+ยส [59 องศาฟาเรันไ ฮีต์-95 องศาฟาเรันไ ฮีต์]) เพื่ ื�อ
+ให้แน่ใจว่าผลิตภัณฑ์์มีความคงสภาพื่
+•  เมื �อจัดเก ็บีอย่างเหมาะสมขวด IDEXX SmartQC Control ที �ไม่ได้ใช้
+้
+จะคง  คุณภา พื่สามา  รัถิ ใช้
+้
+ได้จน ถิ้ งวันหมดอายุที �บีนขวด
+•   IDEXX SmartQC Control จะคงสภาพื่เป็็นเวลา 180 ว ัน หลังจาก ติดตั �งในเค  รัื�อง วิเครัาะ ห์แล้ว
+   ข้้อ  ค์วั รระวัังและค์ําาเตือน
+•   H317
+•   P231 / P272 / P280 / P302+P350 / P333+P313 / P363
+•  อาจ ทําาให้เกิดกา รัแพื่้ที �ผิวหน ัง
+•  หลีกเลี �ยงกา  รัเป็ิดฝาเพื่  ื�อไ ม่ให้หายใจเอาหมอก/ไอรัะเหยเ  ข้าไป็
+•  สวมใ  ส
+่
+ถิุงมื �อเ มื �อใช้
+้
+ IDEXX SmartQC Control
+•  หาก มีกา รัส
+ั
+มผัสกับีผ ิวห นัง ใ ห้ล้างบีรั ิเวณ ที �ส
+ั
+มผัสด้วยส บีู่ และ นํา�า
+•  ให้ล้างเ ส
+ื�
+อผ้าที�เ ป็ื�อน ก่อน นําามาใช้
+้
+ให ม่
+การ ทําาลาย
+กา รัท ําาลายขวด IDEXX SmartQC ตามกฎ ข้อบีังคับีใน พื่ื �นที � / ภ ูมิภาค / ป็รั   ะเทศ / รั   ะห ว่าง ป็รั ะเทศของ   คุณ
+ค์ําาแนะ นําาส
+ํา
+าหรับการใช้
+้
+งาน
+1. เมื�อไ ด้รัับีแจ้ง ให้แตะ เป  ล่�ยน IDEXX SmartQC
+2. เป็ิดช้
+่
+องใ ส
+่
+ตัวอ ย่างและ  นําาขวด ที �มีอยู่ ออก
+3. เขย่าขวด IDEXX SmartQC ให ม่แรังๆ เป็็นเวลา 10 วินาท ี เพื่ ื�อใ ห้มั �นใจ ว่ามันผสม  กันอ ย่าง ดีแล้วบีรัรัจ  ุลงใน ช้
+่
+องใ ส
+่
+ตัวอย่าง
+4. ป็ิดช้
+่
+องใ ส
+่
+ตัวอย ่าง เค รัื �อง วิเครัาะ ห์จะ ป็้อนข ้อมูลเลขที   � QC โดย   อัตโน มัติจาก บีารั์โค ้ดบีนฉลากขวดลงใน IDEXX VetLab* Station
+ข้้อ บ่งช้
+่
+�
+ข้องการเ   ส
+ื�
+อมสภาพ   ข้องผ ลิตภัณฑ์์
+•  การัใช้
+้
+วัสดุโดยไ  ม่มีการัผสม ที �เพื่ียง พื่ออาจ  ส
+่
+งผลใ  ห้เกิดกา รัเกาะ ตัวของเ  ม็ดพื่อลิเมอ รั์ซ
+้�
+งอาจ  ส
+่
+งผลต  ่อความแ   ม่นยําาของผลต  รัวจ
+•  เมื �อเ ป็ิดขวด   มีโอกาสเ   กิดกา รัรั ะเหยของของเหลวจากขวด ซ
+้�
+งอาจ  นําาไป็สู
+่
+การัผ ิดพื่ลาดของการัค ําานวนทางสถิิติ
+ข้้อ จัําาก ัด
+•   IDEXX SmartQC Control ใช้
+้
+ส
+ํา
+าหรัั บีเค รัื �องว ิเครัาะ ห์โล หิตวิทยา ProCyte One
+•   IDEXX SmartQC Control จะถิูกใช้
+้
+ตามที  �ได้รัับีมา กา  รัเจือจางท  ําาให้กา รัท ําางานใช้
+้
+ไม่ได้ผล
+IDEXX SmartQC* Control
+IDEXX Europe B.V.
+Casella Postale 1334,  
+2130 EK Hoofddorp
+Paesi Bassi
+idexx.eu
+
+制造用于
+IDEXX Laboratories, Inc.
+One IDEXX Drive
+Westbrook, Maine 04092 USA
+idexx.com
+© 2022 IDEXX Laboratories, Inc. 版权所有。 • 06-0014986-01  
+*IDEXX SmartQC, ProCyte One, 和 IDEXX VetLab 是 IDEXX Laboratories, Inc. 或其在美国和/或其他国家的附属公司的商标或注册商标。
+预期用途和摘要
+IDEXX SmartQC*质控专为 ProCyte One* 血液分析仪的自动化质量控制分析和统计处理而设计。 该产品仅用于兽医用途。
+配方
+IDEXX SmartQC 质控品由具有模拟血细胞光学特性的合成聚合物珠组成。 质控品由两种不同大小的珠子和模拟血红蛋白的
+染料组成。
+储存和稳定性
+•   Smart QC 质控品样品瓶应存放在室温 (15°C–35°C [59°F–95°F]) 下，以 确 保 产品 的 稳 定 性 。 
+• 正确 存 放 后，未 使 用的 IDEXX SmartQC 质控品样品瓶在瓶上的失效日期之前都是稳定的。 
+•   IDEXX SmartQC 质控品在分析仪中安装后可稳定放置 180 天。
+ 注意事项和警告
+•  H317
+•   P231 / P272 / P280 / P302+P350 / P333+P313 / P363
+• 可能引起皮肤过敏反应。
+• 避 免 打 开 盖 子，以 免 吸 入任 何 雾 气/蒸汽。
+• 使用 IDEXX SmartQC 质控品时，请戴防护手套。
+• 如果发生皮肤接触，请用肥皂和水清洗患处。 
+• 再次使用之前，请清洗受污染的衣物。
+处置方式
+根据当地/区域/国家/国际法规处置 IDEXX SmartQC 小瓶。
+使用说明
+1. 出 现 提 示 时，点击替换 IDEXX SmartQC。 
+2. 打开样品抽屉并取出现有的样品瓶。
+3. 剧烈摇晃新的 IDEXX SmartQC 小瓶 10 秒钟，以确保混合均匀，然后将其装入样品盘。 
+4. 关闭样品盘。 分析仪会自动将样品瓶标签上的条形码中的质控批次信息输入到 IDEXX VetLab* Station 中。
+指示产品变质
+•  在没有充分混合的情况下使用材料会导致珠子凝集，从而可能影响结果的准确性。
+•  打开样品瓶时，有可能从样品瓶中蒸发出液体，这可能导致计数统计错误。
+局限性
+•   IDEXX SmartQC 质控品用于 ProCyte One 血液分析仪。
+•   IDEXX SmartQC 质控品将按提供的方式使用；稀释会使预期用途无效。
+IDEXX SmartQC*质控品
+IDEXX Europe B.V.
+P.O. Box 1334,  
+2130 EK Hoofddorp
+The Netherlands
+idexx.eu
+
+製造商
+IDEXX Laboratories, Inc.
+One IDEXX Drive
+Westbrook, Maine 04092 USA
+idexx.com
+© 2022 IDEXX Laboratories, Inc. 版權所有。保留所有權利。 • 06-0014986-01  
+*IDEXX SmartQC、ProCyte One和IDEXX VetLab是IDEXX Laboratories, Inc.或其美國/或其他國家/地區關係企業的商標或註冊商標。
+預期用途和總結
+IDEXXSmartQC* 品管液旨在用於自動化品管分析和ProCyte One血液學分析儀的統計處理。 這項產品僅限獸醫使用。
+配方
+IDEXXSmartQC 品管液由模擬血球細胞光學特性的合成聚合珠組成。 品管液由兩種不同大小的珠子和模擬血紅素的染劑組成。
+保存和穩定性
+•   Smart QC品管液藥瓶應保存在室溫(15°C–35°C [59°F–95°F])以確保產品的穩定性。
+•  若保存正確，未使用過的IDEXX SmartQC品管液藥瓶在到期日前是穩定的。
+•   IDEXX SmartQC品管液在安裝至分析儀180天內都是穩定的。
+ 注意和警告事項
+•  H317
+•   P231 / P272 / P280 / P302+P350 / P333+P313 / P363
+• 可能引起皮膚過敏反應。
+• 避免打開蓋子，這樣您才不會吸入任何噴霧/蒸氣。
+• 使用IDEXX SmartQC品管液時請穿戴防護手套。
+• 若與皮膚接觸，請用肥皂和水清洗接觸區域。
+• 重新使用前請清洗受到汙染的衣物。
+處置
+根據當地/地區/國家/國際規範處置IDEXX SmartQC藥瓶。
+使用說明
+1. 提示出現時，點擊替換IDEXX SmartQC。
+2. 打開樣品格並取出裡面的藥瓶。
+3. 大力搖晃新的IDEXX SmartQC藥瓶10秒，確保混合均勻，然後將其加載至樣品格中。
+4. 關閉樣品抽屜。 分析儀將藥瓶標籤上的品管品資訊條碼自動輸入IDEXX VetLab Station。
+產品變質的跡象
+• 使用未混合均勻的材料會導致珠子凝集，可能影響結果的準確性。
+• 開啟藥瓶後，液體可能從藥瓶蒸發，導致不正確的計數統計。
+限制
+•   IDEXX SmartQC品管液僅可用於ProCyte One血液學分析儀。
+•   IDEXX SmartQC品管液可做為補充品使用；稀釋會使預期用途無效。
+IDEXXSmartQC* 品管液
+IDEXX Europe B.V.
+P.O. Box 1334,  
+2130 EK Hoofddorp
+The Netherlands（荷蘭）
+idexx.eu
+--- END OF DOCUMENT: procyte-smartqc-control.pdf ---
